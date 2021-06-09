@@ -19,6 +19,13 @@ The primary goals of this workshop are as follows:
 - Promote interdisciplinary discussions and collaborations from two dimensions, not only across AI and Science (horizontal), but also within ML and scientific fields (vertical).
 - Point out current gaps between AI and Science, (1) current investigated directions by ML researchers that are not effective in real-world scientific discovery, (2) current ML methodology can be largely improved from first principles from natural science perspectives, (3) the most concerned science areas that require ML jumping in.
 - Bring more people into the fields, share interdisciplinary research experience, and provide mentorship opportunities for students.
+
+Program Highlight:
+- Two panels about Frontiers, Gaps, and Futures in AI for Science, given by ML and Science researchers, respectively.
+- Invited talks on grand challenges in AI for Science, real-world practices in AI for Science, and guidances on AI for Science.
+- Call for attention which offers opportunities for researchers to call attention from the community on a specific problem or a new problem.
+- Mentorship program and roundtable experience sharing to build the community and bring more young people into the fields.
+
 <!--Additionally, many scientific challenges require knowledge of more than one scientific field. For example, protein structure prediction requires knowledge from biology, chemistry, and physics. The success of AlphaFold2 also benefits from a team with diverse backgrounds. Thus, a platform which promotes discussions and collaborations in the general scientific communities is needed. -->
 <!---->
 <!--The goal of this workshop is to bring together researchers who are interested in tackling scientific problems with machine learning methods and industry experts with practical experience about the applications of machine learning and scientific discovery (e.g. pharmaceutical and material industry). -->
