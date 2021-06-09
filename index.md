@@ -42,11 +42,11 @@ TBA
 
 # Organizers and Contact
 
-For any question, please contact `email@gmail.com`.
+For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
 - [Yuanqi Du](https://yuanqidu.github.io/)
 - [Tianfan Fu](https://futianfan.github.io/)
-- [Wenhao Gao]()
+- [Wenhao Gao](https://scholar.google.com/citations?user=s4eywrUAAAAJ&hl=en)
 - [Kexin Huang](https://www.kexinhuang.com/)
 - [Shengchao Liu](https://chao1224.github.io/)
 - [Ziming Liu](https://kindxiaoming.github.io/)
