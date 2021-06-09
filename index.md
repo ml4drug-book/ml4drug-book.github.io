@@ -10,6 +10,8 @@ team:
     image: assets/images/test.jpeg
 ---
 
+# About 
+
 Machine Learning has largely advanced technology and changed people’s life in all aspects, spanning from entertainment, transportation to medical healthcare, and begun to tackle challenges in scientific disciplines, from studying dynamic systems, learning protein structures to designing new molecules. Machine Learning methods have demonstrated great promise in modeling and processing various types of scientific data as well as accelerating scientific discovery. 
 
 However, the areas of focus are distinct in the machine learning and the scientific communities. Thus, mutual understanding between the two communities needs to be improved (e.g. the scope and limit of machine learning techniques, the foundations of the scientific problems, etc.). To reach this goal, it is necessary to have a dialogue between the two communities which can make machine learning have impacts on real-world scientific discovery problems. 
