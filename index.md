@@ -10,7 +10,6 @@ team:
     image: assets/images/test.jpeg
 ---
 
-# About
 
 Machine Learning has largely advanced technology and changed people’s life in all aspects, spanning from entertainment, transportation to medical healthcare, and begun to tackle challenges in scientific disciplines, from studying dynamic systems, learning protein structures to designing new molecules. Machine Learning methods have demonstrated great promise in modeling and processing various types of scientific data as well as accelerating scientific discovery. 
 
