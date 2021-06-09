@@ -14,7 +14,7 @@ Machine Learning has largely advanced technology and changed people’s life in 
 
 However, the areas of focus are distinct in the machine learning and the scientific communities. Thus, mutual understanding between the two communities needs to be improved (e.g. the scope and limit of machine learning techniques, the foundations of the scientific problems, etc.). To reach this goal, it is necessary to have a dialogue between the two communities which can make machine learning have impacts on real-world scientific discovery problems. 
 
-The primary goal of this workshop is as follows:
+The primary goals of this workshop are as follows:
 - Bring researchers who are interested in AI for Science together, including but not limited to, AI, ML, Biology, Chemistry, Physics, Earth Science and applications of AI for Science, such as material science, drug discovery, etc.
 - Promote interdisciplinary discussions and collaborations from two dimensions, not only across AI and Science (horizontal), but also within ML and scientific fields (vertical).
 - Point out current gaps between AI and Science, (1) current investigated directions by ML researchers that are not effective in real-world scientific discovery, (2) current ML methodology can be largely improved from first principles from natural science perspectives, (3) the most concerned science areas that require ML jumping in.
