@@ -47,7 +47,7 @@ TBA
 
 TBA
 
-# Panel List
+# Panels
 
 TBA
 
