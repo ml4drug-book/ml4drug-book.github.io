@@ -18,7 +18,7 @@ However, the areas of focus are distinct in the machine learning and the scienti
 
 The primary goals of this workshop are as follows:
 - Point out **current gaps** between AI and Science, (1) current investigated directions by ML researchers that are not effective in real-world scientific discovery, (2) current ML methodology can be largely improved from first principles from natural science perspectives, (3) the most concerned science areas that require ML jumping in.
-- Bring researchers who are interested in AI for Science together, including but not limited to, AI, ML, Biology, Chemistry, Physics, Earth Science and applications of AI for Science, such as material science, drug discovery, etc.
+- Bring researchers who are interested in AI for Science together, including but not limited to, AI, ML, Biology, Chemistry, Physics, Earth, Geology, Envrionmental, Mechanical, Aero, Management, Agricultural, Material, Nuclear science and related applications of AI for Science.
 - Promote interdisciplinary discussions and collaborations from two dimensions, not only across AI and Science (horizontal), but also within ML and scientific fields (vertical).
 - Bring more people into the fields, share interdisciplinary research experience, and provide mentorship opportunities for students.
 
