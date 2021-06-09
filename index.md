@@ -28,10 +28,17 @@ TBA
 - Author Notification: TBA
 - Workshop: TBA
 
+# Invited Speakers
+
+TBA
+
 # Panel List
 
-{% include team.html id="team" %}
+TBA
 
+<!----
+{% include team.html id="team" %}
+----->
 
 # Organizers and Contact
 
