@@ -21,7 +21,6 @@ Area of Interest (including but not limited to):
 - Benchmarking related or new tasks (i.e. datasets, sota models, etc.)
 - Building tools/infrastructures/platforms for scientific discovery 
 - Other scientific discovery or application fields, such as earth science, environmental science, mechanical science , aero science, management science, agricultural science, material science, nuclear science etc.
-- Applications of AI for Science, e.g. material science, drug discovery, etc.
 
 
 # Submission Instructions
