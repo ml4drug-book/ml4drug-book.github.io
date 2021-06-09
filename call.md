@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI for Science Workshop, NeurIPS 2021
+title: AI for Science: Frontiers, Gaps, and Futures
 permalink: /call
 ---
 
