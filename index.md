@@ -38,25 +38,6 @@ Program Highlight:
 <!---->
 <!--The goal of this workshop is to bring together researchers who are interested in tackling scientific problems with machine learning methods and industry experts with practical experience about the applications of machine learning and scientific discovery (e.g. pharmaceutical and material industry). -->
 
-# Schedule
-
-TBA
-
-# Important Dates
-
-- Submission Deadline: Sep 17, 2021
-- Author Notification: Oct 22, 2021
-- Conference Date: Dec 6-14, 2021
-- Workshop Date: Dec 13-14, 2021
-
-# Invited Talks
-
-Grand challenges in AI for Science
-
-Real-world practices in AI for Science 
-
-Guidance on AI for Science
-
 # Panels
 
 Frontiers, gaps, and futures of AI for Science (ML side)
@@ -71,9 +52,24 @@ Speakers:
 
 Moderator:
 
+# Invited Talks
+
+Grand challenges in AI for Science
+
+Real-world practices in AI for Science 
+
+Guidance on AI for Science
+
 <!----
 {% include team.html id="team" %}
 ----->
+
+# Important Dates
+
+- Submission Deadline: Sep 17, 2021
+- Author Notification: Oct 22, 2021
+- Conference Date: Dec 6-14, 2021
+- Workshop Date: Dec 13-14, 2021
 
 # Organizers and Contact
 
