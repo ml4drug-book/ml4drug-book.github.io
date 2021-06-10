@@ -44,9 +44,10 @@ TBA
 
 # Important Dates
 
-- Submission Deadline: TBA
-- Author Notification: TBA
-- Workshop: TBA
+- Submission Deadline: Sep 17, 2021
+- Author Notification: Oct 22, 2021
+- Conference Date: Dec 6-14, 2021
+- Workshop Date: Dec 13-14, 2021
 
 # Invited Talks
 
@@ -59,11 +60,15 @@ Guidance on AI for Science
 # Panels
 
 Frontiers, gaps, and futures of AI for Science (ML side)
+
 Speakers:
+
 Moderator:
 
 Frontiers, gaps, and futures of AI for Science (Science side)
+
 Speakers:
+
 Moderator:
 
 <!----
