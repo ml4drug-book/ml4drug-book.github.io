@@ -38,27 +38,26 @@ Program Highlight:
 <!---->
 <!--The goal of this workshop is to bring together researchers who are interested in tackling scientific problems with machine learning methods and industry experts with practical experience about the applications of machine learning and scientific discovery (e.g. pharmaceutical and material industry). -->
 
+# Invited Talks
+
+Grand challenges in AI for Science
+Speaker: John Jumper (tentative)
+
+Real-world practices and impacts in AI for Science 
+Speaker: Yoshua Bengio (tentative)
+
+Guidance on AI for Science
+Speaker: Michela Paganini (tentative)
+
 # Panels
 
 Frontiers, gaps, and futures of AI for Science (ML side)
 
-Speakers:
-
-Moderator:
+Speakers: 
 
 Frontiers, gaps, and futures of AI for Science (Science side)
 
-Speakers:
-
-Moderator:
-
-# Invited Talks
-
-Grand challenges in AI for Science
-
-Real-world practices in AI for Science 
-
-Guidance on AI for Science
+Speakers: 
 
 <!----
 {% include team.html id="team" %}
@@ -82,4 +81,4 @@ For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4scien
 - [Shengchao Liu](https://chao1224.github.io/)
 - [Ziming Liu](https://kindxiaoming.github.io/)
 - [Hanchen Wang](https://hansen7.github.io/)
-- [Max Welling](https://www.ics.uci.edu/~welling/)
+- [Max Welling](https://staff.fnwi.uva.nl/m.welling/)
