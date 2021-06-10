@@ -42,11 +42,11 @@ Program Highlight:
 
 **Machine Learning for Discovery**
 
-Speaker: Yoshua Bengio (Confirmed)
+Speaker: Yoshua Bengio (confirmed)
 
 **Grand challenges in AI for Science**
 
-Speaker: John Jumper (Confirmed)
+Speaker: John Jumper (tentative)
 
 **Real-world practices and impacts in AI for Science**
 
