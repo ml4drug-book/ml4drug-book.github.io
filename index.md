@@ -42,7 +42,7 @@ Program Highlight:
 
 Grand challenges in AI for Science
 
-Speaker: John Jumper (tentative)
+Speaker: John Jumper
 
 Real-world practices and impacts in AI for Science 
 
