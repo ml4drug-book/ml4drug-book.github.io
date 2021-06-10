@@ -40,21 +40,21 @@ Program Highlight:
 
 # Invited Talks
 
-+ Machine Learning for Discovery
-  + Speaker: Yoshua Bengio (Confirmed)
+### Machine Learning for Discovery
+Speaker: Yoshua Bengio (Confirmed)
 
-+ Grand challenges in AI for Science
-  + Speaker: John Jumper (Confirmed)
+### Grand challenges in AI for Science
+Speaker: John Jumper (Confirmed)
 
-+ Real-world practices and impacts in AI for Science 
-  + Speaker: TBD
+### Real-world practices and impacts in AI for Science 
+Speaker: TBD
 
-+ Guidance on AI for Science
-  + Speaker: Michela Paganini (tentative)
+### Guidance on AI for Science
+Speaker: Michela Paganini (tentative)
 
 # Panels
 
-+ Frontiers, gaps, and futures of AI for Science (ML side)
++ Frontiers, gaps, and futures of AI for Science (Machine learning side)
   + Speakers: TBD
   + Moderator: TBD
 
