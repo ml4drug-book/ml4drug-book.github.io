@@ -40,7 +40,7 @@ Program Highlight:
 
 # Invited Talks
 
-+ ML for Discovery
++ Machine Learning for Discovery
   + Speaker: Yoshua Bengio (Confirmed)
 
 + Grand challenges in AI for Science
