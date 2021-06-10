@@ -48,13 +48,23 @@ TBA
 - Author Notification: TBA
 - Workshop: TBA
 
-# Invited Speakers
+# Invited Talks
 
-TBA
+Grand challenges in AI for Science
+
+Real-world practices in AI for Science 
+
+Guidance on AI for Science
 
 # Panels
 
-TBA
+Frontiers, gaps, and futures of AI for Science (ML side)
+Speakers:
+Moderator:
+
+Frontiers, gaps, and futures of AI for Science (Science side)
+Speakers:
+Moderator:
 
 <!----
 {% include team.html id="team" %}
