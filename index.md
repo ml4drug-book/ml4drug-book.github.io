@@ -44,7 +44,7 @@ Grand challenges in AI for Science
 Speaker: John Jumper (tentative)
 
 Real-world practices and impacts in AI for Science 
-Speaker: Yoshua Bengio (tentative)
+Speaker: TBD
 
 Guidance on AI for Science
 Speaker: Michela Paganini (tentative)
@@ -53,11 +53,15 @@ Speaker: Michela Paganini (tentative)
 
 Frontiers, gaps, and futures of AI for Science (ML side)
 
-Speakers: 
+Speakers: TBD
+
+Moderator: TBD
 
 Frontiers, gaps, and futures of AI for Science (Science side)
 
-Speakers: 
+Speakers: TBD
+
+Moderator: TBD
 
 <!----
 {% include team.html id="team" %}
