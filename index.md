@@ -41,12 +41,15 @@ Program Highlight:
 # Invited Talks
 
 Grand challenges in AI for Science
+
 Speaker: John Jumper (tentative)
 
 Real-world practices and impacts in AI for Science 
+
 Speaker: TBD
 
 Guidance on AI for Science
+
 Speaker: Michela Paganini (tentative)
 
 # Panels
