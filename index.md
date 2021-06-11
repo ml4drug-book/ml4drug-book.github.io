@@ -52,6 +52,10 @@ Topic: TBA
 
 Speaker: Petar Veličković (confirmed)
 
+Topic: **Open-source Community in AI for Science**
+
+Speaker: Bharath Ramsundar (DeepChem) (tentative)
+
 Topic: **Grand challenges in AI for Science**
 
 Speaker: John Jumper (tentative)
@@ -95,5 +99,7 @@ For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4scien
 - [Shengchao Liu](https://chao1224.github.io/)
 - [Ziming Liu](https://kindxiaoming.github.io/)
 - [Hanchen Wang](https://hansen7.github.io/)
+- [Payal Chandak](https://www.payalchandak.com/)
+- [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/)
 - [Marinka Zitnik](https://zitniklab.hms.harvard.edu/)
 - [Max Welling](https://staff.fnwi.uva.nl/m.welling/)
