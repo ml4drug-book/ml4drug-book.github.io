@@ -44,7 +44,7 @@ Topic: **Machine Learning for Discovery**
 
 Speaker: Yoshua Bengio (confirmed)
 
-Topic: TBA
+Topic: **Science and Engineering of Intelligence**ß
 
 Speaker: Tomaso Poggio (confirmed)
 
@@ -54,15 +54,19 @@ Speaker: Petar Veličković (confirmed)
 
 Topic: **Open-source Community in AI for Science**
 
-Speaker: Bharath Ramsundar (DeepChem) (tentative)
+Speaker: Bharath Ramsundar (DeepChem) (confirmed)
 
-Topic: **Grand challenges in AI for Science**
+Topic: TBA
 
-Speaker: John Jumper (tentative)
+Speaker: Shirley Ho (confirmed)
 
-Topic: **Real-world practices and impacts in AI for Science**
-
-Speaker: TBA
+<!--Topic: **Grand challenges in AI for Science**-->
+<!---->
+<!--Speaker: John Jumper (tentative)-->
+<!---->
+<!--Topic: **Real-world practices and impacts in AI for Science**-->
+<!---->
+<!--Speaker: TBA-->
 
 Topic: **Guidance on AI for Science**
 
