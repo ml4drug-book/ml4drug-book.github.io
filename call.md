@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "AI for Science: Frontiers, Gaps, and Futures"
+title: "AI for Science: Mind the Gaps"
 permalink: /call
 ---
 
