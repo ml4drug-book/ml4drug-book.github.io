@@ -42,41 +42,46 @@ Program Highlight:
 
 Topic: **Machine Learning for Discovery**
 
-Speaker: Yoshua Bengio (confirmed)
+Speaker: [Yoshua Bengio (confirmed)](https://yoshuabengio.org/)
 
 Topic: **Science and Engineering of Intelligence**ß
 
-Speaker: Tomaso Poggio (confirmed)
+Speaker: [Tomaso Poggio (confirmed)](https://mcgovern.mit.edu/profile/tomaso-poggio/)
 
-Topic: TBA
+Topic: **TBA**
 
-Speaker: Petar Veličković (confirmed)
+Speaker: [Petar Veličković (confirmed)](https://petar-v.com/)
 
 Topic: **Open-source Community in AI for Science**
 
-Speaker: Bharath Ramsundar (DeepChem) (confirmed)
+Speaker: [Bharath Ramsundar (DeepChem) (confirmed)](https://rbharath.github.io/about/)
 
-Topic: TBA
+Topic: **TBA**
 
-Speaker: Shirley Ho (confirmed)
+Speaker: [Shirley Ho (confirmed)](https://users.flatironinstitute.org/~sho/index.html)
 
-<!--Topic: **Grand challenges in AI for Science**-->
-<!---->
-<!--Speaker: John Jumper (tentative)-->
-<!---->
-<!--Topic: **Real-world practices and impacts in AI for Science**-->
-<!---->
-<!--Speaker: TBA-->
+Topic: **What kinds of machine learning should we use and develop to accelerate biomedical discovery?**
+
+Speaker: [Debora Marks(confirmed)](https://www.deboramarkslab.com/)
+
+<!--Topic: **Grand challenges in AI for Science**
+
+Speaker: John Jumper (tentative)
+
+Topic: **Real-world practices and impacts in AI for Science**
+
+Speaker: TBA
 
 Topic: **Guidance on AI for Science**
 
 Speaker: Michela Paganini (tentative)
+-->
 
 # Panels
 
 **Frontiers, gaps, and futures of AI for Science**
 
-Speakers: Connor Coley (confirmed), Pushmeet Kohli (tentative), TBA
+Speakers: [Connor Coley (confirmed)](https://coley.mit.edu/), TBA
 
 Moderator: TBA
 
@@ -104,7 +109,6 @@ For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4scien
 - [Ziming Liu](https://kindxiaoming.github.io/)
 - [Hanchen Wang](https://hansen7.github.io/)
 - [Payal Chandak](https://www.payalchandak.com/)
-
 
 - [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/)
 - [Marinka Zitnik](https://zitniklab.hms.harvard.edu/)
