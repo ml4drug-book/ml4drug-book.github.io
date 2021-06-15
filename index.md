@@ -54,7 +54,7 @@ Speaker: [Petar Veličković (confirmed)](https://petar-v.com/)
 
 Topic: **Open-source Community in AI for Science**
 
-Speaker: [Bharath Ramsundar (DeepChem) (confirmed)](https://rbharath.github.io/about/)
+Speaker: [Bharath Ramsundar (confirmed)](https://rbharath.github.io/about/)
 
 Topic: **TBA**
 
@@ -62,7 +62,7 @@ Speaker: [Shirley Ho (confirmed)](https://users.flatironinstitute.org/~sho/index
 
 Topic: **What kinds of machine learning should we use and develop to accelerate biomedical discovery?**
 
-Speaker: [Debora Marks(confirmed)](https://www.deboramarkslab.com/)
+Speaker: [Debora Marks (confirmed)](https://www.deboramarkslab.com/)
 
 <!--Topic: **Grand challenges in AI for Science**
 
