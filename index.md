@@ -44,7 +44,7 @@ Topic: **Machine Learning for Discovery**
 
 Speaker: [Yoshua Bengio (confirmed)](https://yoshuabengio.org/)
 
-Topic: **Science and Engineering of Intelligence**ß
+Topic: **Science and Engineering of Intelligence**
 
 Speaker: [Tomaso Poggio (confirmed)](https://mcgovern.mit.edu/profile/tomaso-poggio/)
 
@@ -101,6 +101,7 @@ Moderator: TBA
 
 For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
+- [Payal Chandak](https://www.payalchandak.com/)
 - [Yuanqi Du](https://yuanqidu.github.io/)
 - [Tianfan Fu](https://futianfan.github.io/)
 - [Wenhao Gao](https://scholar.google.com/citations?user=s4eywrUAAAAJ&hl=en)
@@ -108,9 +109,8 @@ For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4scien
 - [Shengchao Liu](https://chao1224.github.io/)
 - [Ziming Liu](https://kindxiaoming.github.io/)
 - [Hanchen Wang](https://hansen7.github.io/)
-- [Payal Chandak](https://www.payalchandak.com/)
 
-- [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/)
-- [Marinka Zitnik](https://zitniklab.hms.harvard.edu/)
 - [Max Tegmark](https://space.mit.edu/home/tegmark/)
+- [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/)
 - [Max Welling](https://staff.fnwi.uva.nl/m.welling/)
+- [Marinka Zitnik](https://zitniklab.hms.harvard.edu/)
