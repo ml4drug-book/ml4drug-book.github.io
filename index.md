@@ -83,7 +83,7 @@ Speaker: Michela Paganini (tentative)
 
 **Frontiers, gaps, and futures of AI for Science**
 
-Speakers: [Connor Coley (confirmed)](https://coley.mit.edu/), [Pushmeet Kohli (confirmed)](https://sites.google.com/site/pushmeet/)
+Speakers (alphabetical order): [Karianne Bergen (confirmed)](https://www.kariannebergen.com/), [Connor Coley (confirmed)](https://coley.mit.edu/), [Pushmeet Kohli (confirmed)](https://sites.google.com/site/pushmeet/)
 
 Moderator: TBA
 
@@ -100,7 +100,7 @@ Moderator: TBA
 
 # Organizers and Contact
 
-Organizers in alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
+Organizers in the alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
 - [Payal Chandak](https://www.payalchandak.com/)
 - [Yuanqi Du](https://yuanqidu.github.io/)
