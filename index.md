@@ -38,7 +38,9 @@ Program Highlight:
 <!---->
 <!--The goal of this workshop is to bring together researchers who are interested in tackling scientific problems with machine learning methods and industry experts with practical experience about the applications of machine learning and scientific discovery (e.g. pharmaceutical and material industry). -->
 
-# Invited Talks (alphabetical order)
+# Invited Talks
+
+Talks in the alphabetical order.
 
 Topic: **Machine Learning for Discovery**
 
@@ -77,7 +79,7 @@ Topic: **Guidance on AI for Science**
 Speaker: Michela Paganini (tentative)
 -->
 
-# Panels (alphabetical order)
+# Panels
 
 **Frontiers, gaps, and futures of AI for Science**
 
@@ -96,9 +98,9 @@ Moderator: TBA
 - Conference Date: Dec 6-14, 2021
 - Workshop Date: Dec 13-14, 2021
 
-# Organizers and Contact (alphabetical order)
+# Organizers and Contact
 
-For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
+Organizers in alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
 - [Payal Chandak](https://www.payalchandak.com/)
 - [Yuanqi Du](https://yuanqidu.github.io/)
