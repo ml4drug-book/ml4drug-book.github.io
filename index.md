@@ -40,7 +40,7 @@ Program Highlight:
 
 # Invited Talks
 
-Talks in the alphabetical order.
+(In alphabetical order.)
 
 Topic: **Machine Learning for Discovery**
 
