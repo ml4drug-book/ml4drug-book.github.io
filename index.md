@@ -81,10 +81,9 @@ Speaker: Michela Paganini (tentative)
 
 **Frontiers, gaps, and futures of AI for Science**
 
-Speakers: [Connor Coley (confirmed)](https://coley.mit.edu/), TBA
+Speakers: [Connor Coley (confirmed)](https://coley.mit.edu/), [Pushmeet Kohli (confirmed)](https://sites.google.com/site/pushmeet/)
 
 Moderator: TBA
-
 
 <!----
 {% include team.html id="team" %}
