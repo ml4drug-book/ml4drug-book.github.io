@@ -38,23 +38,11 @@ Program Highlight:
 <!---->
 <!--The goal of this workshop is to bring together researchers who are interested in tackling scientific problems with machine learning methods and industry experts with practical experience about the applications of machine learning and scientific discovery (e.g. pharmaceutical and material industry). -->
 
-# Invited Talks
+# Invited Talks (alphabetical order)
 
 Topic: **Machine Learning for Discovery**
 
 Speaker: [Yoshua Bengio (confirmed)](https://yoshuabengio.org/)
-
-Topic: **Science and Engineering of Intelligence**
-
-Speaker: [Tomaso Poggio (confirmed)](https://mcgovern.mit.edu/profile/tomaso-poggio/)
-
-Topic: **TBA**
-
-Speaker: [Petar Veličković (confirmed)](https://petar-v.com/)
-
-Topic: **Open-source Community in AI for Science**
-
-Speaker: [Bharath Ramsundar (confirmed)](https://rbharath.github.io/about/)
 
 Topic: **TBA**
 
@@ -63,6 +51,18 @@ Speaker: [Shirley Ho (confirmed)](https://users.flatironinstitute.org/~sho/index
 Topic: **What kinds of machine learning should we use and develop to accelerate biomedical discovery?**
 
 Speaker: [Debora Marks (confirmed)](https://www.deboramarkslab.com/)
+
+Topic: **Science and Engineering of Intelligence**
+
+Speaker: [Tomaso Poggio (confirmed)](https://mcgovern.mit.edu/profile/tomaso-poggio/)
+
+Topic: **Open-source Community in AI for Science**
+
+Speaker: [Bharath Ramsundar (confirmed)](https://rbharath.github.io/about/)
+
+Topic: **TBA**
+
+Speaker: [Petar Veličković (confirmed)](https://petar-v.com/)
 
 <!--Topic: **Grand challenges in AI for Science**
 
@@ -77,7 +77,7 @@ Topic: **Guidance on AI for Science**
 Speaker: Michela Paganini (tentative)
 -->
 
-# Panels
+# Panels (alphabetical order)
 
 **Frontiers, gaps, and futures of AI for Science**
 
@@ -97,7 +97,7 @@ Moderator: TBA
 - Conference Date: Dec 6-14, 2021
 - Workshop Date: Dec 13-14, 2021
 
-# Organizers and Contact
+# Organizers and Contact (alphabetical order)
 
 For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
