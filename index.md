@@ -12,10 +12,27 @@ team:
 
 # About
 
+Machine learning (ML) has revolutionized a wide array of scientific disciplines and solved problems that were unsolvable before: predicting protein structure~\cite{callaway2020will}, imaging black holes~\cite{collaboration2019first}, automating drug discovery~\cite{stokes2020deep}, and so on. Despite this promise, we observe the following gaps that stifle advancement:
+
++ **Gap 1: Unrealistic methodological assumptions or directions.** While ML researchers strive for methodology advances, they often make unrealistic assumptions that limit real-world adoption. For example, most state-of-the-art molecule generation ML models generate molecules that have low synthesizability.
+
++ **Gap 2: Overlooked scientific questions.** Scientific communities contend with crucial and unsolved problems but they are not formulated in the ML language and can thus be overlooked by the ML communities. For example, how can theoretical physical laws be parameterized to re-discover or discover new ones?
+
++ **Gap 3: Limited exploration on the intersections of multiple disciplines.** Solutions to grand challenges often stretch across multiple disciplines. For example, protein structure prediction requires collaboration across physics, chemistry, biology; single-cell imaging of whole-tumor can be approached by cosmology algorithms that connects cells as stars. 
+
++ **Gap 4: Science of science.** The principles of scientific methods have been unchanged since 17th century. How AI can facilitate the practice of scientific discovery itself is often undiscussed. For example, instead of the multiple hypothesizing-experimenting cycles to make sense of a phenomena, can AI reason and output nature laws directly?
+
+However, little work has been done to bridge these gaps, mainly because of the missing conversations among the scientific communities. While we see many workshops focus on AI for individual scientific discipline, they all focus on method advances in a single field and are unable to answer the above important questions. Thus, this workshop is born to fulfill this unmet need. Particularly, the goal of this workshop aims to bridge each of the above gaps via:
++ Identify the directions that are currently used by ML researchers that are not effective for real-world scientific discovery. 
++ Bring important scientific questions with untapped potential for use of ML methodological advances to the AI community. 
++ Pinpoint grand challenges at the intersection of various scientific fields (biology, chemistry, physics, neuroscience, etc).
++ Highlight how ML can change or complement the classic scientific methods and facilitate the science of scientific discovery itself.
+
 <!--Machine Learning has largely advanced technology and changed people’s life in all aspects, spanning from entertainment, transportation to medical healthcare, and begun to tackle challenges in scientific disciplines, from studying dynamic systems, learning protein structures to designing new molecules. Machine Learning methods have demonstrated great promise in modeling and processing various types of scientific data as well as accelerating scientific discovery. -->
 <!---->
 <!--However, the areas of focus are distinct in the machine learning and the scientific communities. Thus, mutual understanding between the two communities needs to be improved (e.g. the scope and limit of machine learning techniques, the foundations of the scientific problems, etc.). To reach this goal, it is necessary to have a dialogue between the two communities which can make machine learning have impacts on real-world scientific discovery problems. -->
 
+<!-----
 Machine learning has revolutionized a wide array of scientific disciplines and solved problems that were unsolvable before: predicting protein structure, imaging black holes, automating drug discovery, and so on. 
 
 However, the areas of focus are distinct in the machine learning and the scientific communities. While ML researchers strive for methodology advances, they often make assumptions that keep realistic utilities futile; similarly, scientific communities pose crucial but unsolved problems but they are not formulated in the ML language and thus overseen by the ML communities. 
@@ -33,6 +50,7 @@ Program Highlight:
 - Invited talks on grand challenges in AI for Science, real-world practices in AI for Science, and guidance on AI for Science.
 - Call for attention which offers opportunities for researchers to call attention from the community on a specific scientific problem.
 - Mentorship program and roundtable experience sharing to build the community and bring more young people into the fields.
+--->
 
 <!--Additionally, many scientific challenges require knowledge of more than one scientific field. For example, protein structure prediction requires knowledge from biology, chemistry, and physics. The success of AlphaFold2 also benefits from a team with diverse backgrounds. Thus, a platform which promotes discussions and collaborations in the general scientific communities is needed. -->
 <!---->
@@ -109,6 +127,7 @@ Organizers in the alphabetical order. For any question, please contact [ai4scien
 - [Kexin Huang](https://www.kexinhuang.com/)
 - [Shengchao Liu](https://chao1224.github.io/)
 - [Ziming Liu](https://kindxiaoming.github.io/)
+- [Gabriel Spadon](https://www.spadon.com.br/)
 - [Hanchen Wang](https://hansen7.github.io/)
 
 - [Max Tegmark](https://space.mit.edu/home/tegmark/)
