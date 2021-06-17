@@ -12,7 +12,7 @@ team:
 
 # About
 
-Machine learning (ML) has revolutionized a wide array of scientific disciplines and solved problems that were unsolvable before: predicting protein structure~\cite{callaway2020will}, imaging black holes~\cite{collaboration2019first}, automating drug discovery~\cite{stokes2020deep}, and so on. Despite this promise, we observe the following gaps that stifle advancement:
+Machine learning (ML) has revolutionized a wide array of scientific disciplines and solved problems that were unsolvable before: predicting protein structure, imaging black holes, automating drug discovery, and so on. Despite this promise, we observe the following gaps that stifle advancement:
 
 + **Gap 1: Unrealistic methodological assumptions or directions.** While ML researchers strive for methodology advances, they often make unrealistic assumptions that limit real-world adoption. For example, most state-of-the-art molecule generation ML models generate molecules that have low synthesizability.
 
