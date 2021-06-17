@@ -5,7 +5,7 @@ permalink: /call
 ---
 
 # Call for Papers
-We call for two types of submissions. The first is the *Original Research* track, where we solicit 4 page extended abstracts. We introduce a second novel *Attention* track, where we solicit 2 page submissions that are open to scientific problems and overlooked assumptions of ML methods. All submitted papers will be non-archival, rigorously reviewed double-blind by at least 3 reviewers, and we will use mechanisms provided by the CMT to appropriately handle any conflicts of interest. 
+We call for two tracks of submissions. The first is the *Original Research* track, where we solicit 4 page extended abstracts. We introduce a second novel *Attention* track, where we solicit 2 page submissions that are open to scientific problems and overlooked assumptions of ML methods. All submitted papers will be non-archival, rigorously reviewed double-blind by at least 3 reviewers, and we will use mechanisms provided by the CMT to appropriately handle any conflicts of interest. 
 
 Area of Interest (including but not limited to):
 - Learning physical dynamics from data
