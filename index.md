@@ -101,7 +101,7 @@ Speaker: Michela Paganini (tentative)
 
 **Frontiers, gaps, and futures of AI for Science**
 
-Speakers (alphabetical order): [Karianne Bergen (confirmed)](https://www.kariannebergen.com/), [Connor Coley (confirmed)](https://coley.mit.edu/), [Pushmeet Kohli (confirmed)](https://sites.google.com/site/pushmeet/)
+Speakers (alphabetical order): [Karianne Bergen (confirmed)](https://www.kariannebergen.com/), [Connor Coley (confirmed)](https://coley.mit.edu/), [Pushmeet Kohli (confirmed)](https://sites.google.com/site/pushmeet/), [Irina Rish (confirmed)](https://sites.google.com/site/irinarish)
 
 Moderator: TBA
 
