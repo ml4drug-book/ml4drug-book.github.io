@@ -7,7 +7,7 @@ speakers:
   - name: Yoshua Bengio
     url: https://yoshuabengio.org
     topic: Machine Learning for Discovery
-    image: assets/images/yoshua.png
+    image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
   
   - name: Shirley Ho
     url: https://users.flatironinstitute.org/~sho/index.html
