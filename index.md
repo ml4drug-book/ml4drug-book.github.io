@@ -7,49 +7,49 @@ speakers:
   - name: Yoshua Bengio
     url: https://yoshuabengio.org
     topic: Machine Learning for Discovery
-    image: assets/images/test.jpeg
+    image: assets/images/yoshua.png
   
   - name: Shirley Ho
     url: https://users.flatironinstitute.org/~sho/index.html
     topic: TBD
-    image: assets/images/test.jpeg
+    image: assets/images/Ho_Shirley.jpeg
     
   - name: Debora Marks
     url: https://www.deboramarkslab.com/
     topic: What kinds of machine learning should we use and develop to accelerate biomedical discovery?
-    image: assets/images/test.jpeg
+    image: assets/images/marks_debora.jpeg
 
   - name: Tomaso Poggio
     url: https://mcgovern.mit.edu/profile/tomaso-poggio
     topic: Science and Engineering of Intelligence
-    image: assets/images/test.jpeg
+    image: assets/images/Tomaso_poggio_2015.png
 
   - name: Bharath Ramsundar
     url: https://rbharath.github.io/about/
     topic: Open-source Community in AI for Science
-    image: assets/images/test.jpeg
+    image: assets/images/bharath.jpeg
 
   - name: Petar Veličković
     url: https://petar-v.com/
     topic: TBA
-    image: assets/images/test.jpeg
+    image: assets/images/petar.jpeg
     
 panels:
   - name: Karianne Bergen
     url: https://www.kariannebergen.com/
-    image: assets/images/test.jpeg
+    image: assets/images/karianne.jpeg
       
   - name: Connor Coley
     url: https://coley.mit.edu/
-    image: assets/images/test.jpeg
+    image: assets/images/connor.jpeg
       
   - name: Pushmeet Kohli
     url: https://sites.google.com/site/pushmeet/
-    image: assets/images/test.jpeg
+    image: assets/images/pushmeet.jpeg
       
   - name: Irina Rish
     url: https://sites.google.com/site/irinarish
-    image: assets/images/test.jpeg
+    image: assets/images/irina.jpeg
 
 StudentOrganizers:
   - name: Payal Chandak
@@ -120,11 +120,13 @@ Machine learning (ML) has revolutionized a wide array of scientific disciplines 
 
 + **Gap 4: Science of science.** The principles of scientific methods have been unchanged since 17th century. How AI can facilitate the practice of scientific discovery itself is often undiscussed. For example, instead of the multiple hypothesizing-experimenting cycles to make sense of a phenomena, can AI reason and output nature laws directly?
 
++ **Gap 5: Responsible use and development of AI for science.** Interest in ML across scientific disciplines has been growing, but few ML models have progressed to routine use in practice~\cite{wiens2019no}. We plan to present a roadmap and ultimately guidelines for accelerating the translation of ML in science. To be successful, translation will require a team of engaged stakeholders and a systematic process from beginning (problem formulation) to end (widespread deployment).
+
 However, little work has been done to bridge these gaps, mainly because of the missing conversations among the scientific communities. While we see many workshops focus on AI for individual scientific discipline, they all focus on method advances in a single field and are unable to answer the above important questions. Thus, this workshop is born to fulfill this unmet need. Particularly, the goal of this workshop aims to bridge each of the above gaps via:
-+ Identify the directions that are currently used by ML researchers that are not effective for real-world scientific discovery. 
-+ Bring important scientific questions with untapped potential for use of ML methodological advances to the AI community. 
-+ Pinpoint grand challenges at the intersection of various scientific fields (biology, chemistry, physics, neuroscience, etc).
-+ Highlight how ML can change or complement the classic scientific methods and facilitate the science of scientific discovery itself.
++ Discuss directions in ML that are likely/unlikely to have an impact across scientific disciplines and identify reasons behind them.
++ Bring to the front key scientific questions with untapped potential for use of ML methodological advances. 
++ Pinpoint grand challenges at the intersection of multiple scientific disciplines (biology, chemistry, physics, neuroscience, etc).
++ Highlight how ML can change or complement classic scientific methods and transform the science of scientific discovery itself.
 
 # Invited Talks
 
@@ -187,8 +189,7 @@ Moderator:
 
 # Organizers and Contact
 
-
-Organizers in the alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
+Organizers are in the alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
 
 <ul>
