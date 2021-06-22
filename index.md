@@ -157,7 +157,7 @@ In alphabetical order.
 
 # Panels
 
-**Frontiers, gaps, and futures of AI for Science**: (In alphabetical order.)
+**Frontiers, gaps, and futures of AI for Science**: (In alphabetical order)
 
 <!--
 
