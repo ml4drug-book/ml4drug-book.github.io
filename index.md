@@ -7,12 +7,12 @@ speakers:
   - name: Yoshua Bengio
     url: https://yoshuabengio.org
     topic: Machine Learning for Discovery
-    image: https://images.app.goo.gl/JJAgvM1dBrFtYFgM9
+    image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
   
   - name: Shirley Ho
     url: https://users.flatironinstitute.org/~sho/index.html
     topic: TBD
-    image: assets/images/test.jpeg
+    image: https://www.cmu.edu/physics/people/faculty/images/large/Ho3-min.jpg
     
   - name: Debora Marks
     url: https://www.deboramarkslab.com/
