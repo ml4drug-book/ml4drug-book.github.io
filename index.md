@@ -4,58 +4,107 @@ title: "AI for Science: Mind the Gaps"
 permalink: /
 
 speakers:
-  - info:
-    - name: Yoshua Bengio
-      url: https://yoshuabengio.org
-    title: Machine Learning for Discovery
+  - name: Yoshua Bengio
+    url: https://yoshuabengio.org
+    topic: Machine Learning for Discovery
     image: assets/images/test.jpeg
   
-  - info:
-    - name: Shirley Ho
-      url: https://users.flatironinstitute.org/~sho/index.html
-    title: TBD
+  - name: Shirley Ho
+    url: https://users.flatironinstitute.org/~sho/index.html
+    topic: TBD
     image: assets/images/test.jpeg
     
-  - info:
-    - name: Debora Marks
-      url: https://www.deboramarkslab.com/
-    title: What kinds of machine learning should we use and develop to accelerate biomedical discovery?
+  - name: Debora Marks
+    url: https://www.deboramarkslab.com/
+    topic: What kinds of machine learning should we use and develop to accelerate biomedical discovery?
     image: assets/images/test.jpeg
 
-  - info:
-    - name: Tomaso Poggio
-      url: https://mcgovern.mit.edu/profile/tomaso-poggio
-    title: Science and Engineering of Intelligence
+  - name: Tomaso Poggio
+    url: https://mcgovern.mit.edu/profile/tomaso-poggio
+    topic: Science and Engineering of Intelligence
     image: assets/images/test.jpeg
 
-  - info:
-    - name: Bharath Ramsundar
-      url: https://rbharath.github.io/about/
-    title: Open-source Community in AI for Science
+  - name: Bharath Ramsundar
+    url: https://rbharath.github.io/about/
+    topic: Open-source Community in AI for Science
     image: assets/images/test.jpeg
 
-  - info:
-    - name: Petar Veličković
-      url: https://petar-v.com/
-    title: TBA
+  - name: Petar Veličković
+    url: https://petar-v.com/
+    topic: TBA
     image: assets/images/test.jpeg
     
 panels:
-  - info:
-    - name: Karianne Bergen
-      url: https://www.kariannebergen.com/
+  - name: Karianne Bergen
+    url: https://www.kariannebergen.com/
+    image: assets/images/test.jpeg
       
-  - info:
-    - name: Connor Coley
-      url: https://coley.mit.edu/
+  - name: Connor Coley
+    url: https://coley.mit.edu/
+    image: assets/images/test.jpeg
       
-  - info:
-    - name: Pushmeet Kohli
-      url: https://sites.google.com/site/pushmeet/
+  - name: Pushmeet Kohli
+    url: https://sites.google.com/site/pushmeet/
+    image: assets/images/test.jpeg
       
-  - info:
-    - name: Irina Rish
-      url: https://sites.google.com/site/irinarish
+  - name: Irina Rish
+    url: https://sites.google.com/site/irinarish
+    image: assets/images/test.jpeg
+
+StudentOrganizers:
+  - name: Payal Chandak
+    url: https://www.payalchandak.com/
+    image: assets/images/test.jpeg
+
+  - name: Yuanqi Du
+    url: https://yuanqidu.github.io/
+    image: assets/images/test.jpeg
+    
+  - name: Tianfan Fu
+    url: https://futianfan.github.io/
+    image: assets/images/test.jpeg
+    
+  - name: Wenhao Gao
+    url: https://scholar.google.com/citations?user=s4eywrUAAAAJ&hl=en
+    image: assets/images/test.jpeg
+    
+  - name: Kexin Huang
+    url: https://www.kexinhuang.com/
+    image: assets/images/test.jpeg
+    
+  - name: Shengchao Liu
+    url: https://chao1224.github.io/
+    image: assets/images/test.jpeg
+    
+  - name: Ziming Liu
+    url: https://kindxiaoming.github.io/
+    image: assets/images/test.jpeg
+    
+  - name: Gabriel Spadon
+    url: https://www.spadon.com.br/
+    image: assets/images/test.jpeg
+    
+  - name: Hanchen Wang
+    url: https://hansen7.github.io/
+    image: assets/images/test.jpeg
+
+
+ProfessorOrganizers:
+  - name: Max Tegmark
+    url: https://space.mit.edu/home/tegmark
+    image: assets/images/test.jpeg
+
+  - name: Adrian Weller
+    url: http://mlg.eng.cam.ac.uk/adrian
+    image: assets/images/test.jpeg
+
+  - name: Max Welling
+    url: https://staff.fnwi.uva.nl/m.welling
+    image: assets/images/test.jpeg
+
+  - name: Marinka Zitnik
+    url: https://zitniklab.hms.harvard.edu
+    image: assets/images/test.jpeg
 
 ---
 
@@ -79,35 +128,9 @@ However, little work has been done to bridge these gaps, mainly because of the m
 
 # Invited Talks
 
-(In alphabetical order.)
+In alphabetical order.
 
-<!-----
-Topic: **Machine Learning for Discovery**
-
-Speaker: [Yoshua Bengio (confirmed)](https://yoshuabengio.org/)
-
-Topic: **TBA**
-
-Speaker: [Shirley Ho (confirmed)](https://users.flatironinstitute.org/~sho/index.html)
-
-Topic: **What kinds of machine learning should we use and develop to accelerate biomedical discovery?**
-
-Speaker: [Debora Marks (confirmed)](https://www.deboramarkslab.com/)
-
-Topic: **Science and Engineering of Intelligence**
-
-Speaker: [Tomaso Poggio (confirmed)](https://mcgovern.mit.edu/profile/tomaso-poggio/)
-
-Topic: **Open-source Community in AI for Science**
-
-Speaker: [Bharath Ramsundar (confirmed)](https://rbharath.github.io/about/)
-
-Topic: **TBA**
-
-Speaker: [Petar Veličković (confirmed)](https://petar-v.com/)
-
----->
-
+<!--
 {% include team.html id="team" %}
 
 <table>
@@ -118,36 +141,42 @@ Speaker: [Petar Veličković (confirmed)](https://petar-v.com/)
   {% for speaker in page.speakers %}
     <tr>
       <td>
-      {% for i in speaker.info %}
-        {% include href item=i %}<br>
-      {% endfor %}
+      <a{% if speaker.url %} href="{{ speaker.url }}"{% endif %}>{{ speaker.name }}</a>
       </td>
       <td><b>{{ speaker.title }}</b></td>
     </tr>
   {% endfor %}
 </table>
 
+-->
+
+{% include team.html id="speakers" %}
+
+
 # Panels
 
-**Frontiers, gaps, and futures of AI for Science**
+**Frontiers, gaps, and futures of AI for Science**: (In alphabetical order.)
+
+<!--
 
 Speakers (alphabetical order): 
-<!----
 [Karianne Bergen (confirmed)](https://www.kariannebergen.com/), [Connor Coley (confirmed)](https://coley.mit.edu/), [Pushmeet Kohli (confirmed)](https://sites.google.com/site/pushmeet/), [Irina Rish (confirmed)](https://sites.google.com/site/irinarish)
----->
-
 
 <ul>
-{% for panel in page.panels %}
+{% for p in page.panels %}
 <li>
-{% for i in panel.info %}
-    {% include href item=i %}<br>
-{% endfor %}
+<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
 </li>
 {% endfor %}
 </ul>
 
-Moderator: TBA
+Moderator:
+<ul>
+<li>TBA</li>
+</ul>
+-->
+
+{% include team.html id="panels" %}
 
 # Important Dates
 
@@ -158,19 +187,31 @@ Moderator: TBA
 
 # Organizers and Contact
 
+
 Organizers in the alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
-- [Payal Chandak](https://www.payalchandak.com/)
-- [Yuanqi Du](https://yuanqidu.github.io/)
-- [Tianfan Fu](https://futianfan.github.io/)
-- [Wenhao Gao](https://scholar.google.com/citations?user=s4eywrUAAAAJ&hl=en)
-- [Kexin Huang](https://www.kexinhuang.com/)
-- [Shengchao Liu](https://chao1224.github.io/)
-- [Ziming Liu](https://kindxiaoming.github.io/)
-- [Gabriel Spadon](https://www.spadon.com.br/)
-- [Hanchen Wang](https://hansen7.github.io/)
 
-- [Max Tegmark](https://space.mit.edu/home/tegmark/)
-- [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/)
-- [Max Welling](https://staff.fnwi.uva.nl/m.welling/)
-- [Marinka Zitnik](https://zitniklab.hms.harvard.edu/)
+<ul>
+{% for p in page.StudentOrganizers %}
+<li>
+<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
+</li>
+{% endfor %}
+</ul>
+
+
+
+<ul>
+{% for p in page.ProfessorOrganizers %}
+<li>
+<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
+</li>
+{% endfor %}
+</ul>
+
+
+<!-----
+{% include team.html id="StudentOrganizers" %}
+
+{% include team.html id="ProfessorOrganizers" %}
+---->
