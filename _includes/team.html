@@ -6,11 +6,11 @@
 
 <div class="row justify-content-center">
   {% for member in team %}
-  <div class="col-12 col-md-3 mb-2" style="font-size:16px; text-align:center;">
+  <div class="col-12 col-md-2 mb-2" style="font-size:16px; text-align:center;">
     <div class="team team-summary team-summary-large">
       {% if member.image %}
       <div class="team-image">
-        <img alt="{{ member.name }}" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
+          <img alt="{{ member.name }}" class="rounded" style="height: 150px;" src="{{ member.image | relative_url }}" />
       </div>
       {% endif %}
       <div class="team-meta">
