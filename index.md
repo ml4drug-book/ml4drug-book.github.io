@@ -128,9 +128,7 @@ However, little work has been done to bridge these gaps, mainly because of the m
 + Pinpoint grand challenges at the intersection of multiple scientific disciplines (biology, chemistry, physics, neuroscience, etc).
 + Highlight how ML can change or complement classic scientific methods and transform the science of scientific discovery itself.
 
-# Invited Talks
-
-In alphabetical order.
+# Invited Talks (In alphabetical order)
 
 <!--
 {% include team.html id="team" %}
@@ -155,9 +153,8 @@ In alphabetical order.
 {% include team.html id="speakers" %}
 
 
-# Panels
+# Panel: Frontiers, gaps, and futures of AI for Science (In alphabetical order)
 
-**Frontiers, gaps, and futures of AI for Science**: (In alphabetical order)
 
 <!--
 
