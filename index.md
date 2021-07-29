@@ -28,6 +28,11 @@ speakers:
     url: https://rbharath.github.io/about/
     topic: Open-source Community in AI for Science
     image: assets/images/bharath.jpeg
+    
+  - name: Jian Tang
+    url: https://jian-tang.com/
+    topic: TBA
+    image: assets/images/jian.jpeg
 
   - name: Petar Veličković
     url: https://petar-v.com/
@@ -46,6 +51,10 @@ panels:
   - name: Pushmeet Kohli
     url: https://sites.google.com/site/pushmeet/
     image: assets/images/pushmeet.jpeg
+    
+  - name: Tie-Yan Liu
+    url: https://www.microsoft.com/en-us/research/people/tyliu/?from=http%3A%2F%2Fresearch.microsoft.com%2Fusers%2Ftyliu
+    image: assets/images/tyliu-2019-website.jpeg
       
   - name: Irina Rish
     url: https://sites.google.com/site/irinarish
