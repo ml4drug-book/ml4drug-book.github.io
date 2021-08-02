@@ -7,13 +7,13 @@ speakers:
   - name: Yoshua Bengio
     url: https://yoshuabengio.org
     topic: Machine Learning for Discovery
-    aff: Université de Montréal & MILA
+    aff: MILA
     interest: AI X Discovery
     image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
     
   - name: Karianne Bergen
     url: https://www.kariannebergen.com/
-    aff: Brown University
+    aff: Brown
     interest: AI X Earth Science
     image: assets/images/karianne.jpeg
 
@@ -58,13 +58,13 @@ speakers:
 
   - name: Bharath Ramsundar
     url: https://rbharath.github.io/about/
-    aff: Deep Forest Science & DeepChem
+    aff: DeepChem
     interest: AI X Open Science
     topic: Open-source Community in AI for Science
     image: assets/images/bharath.jpeg
     
   - name: Irina Rish
-    aff: Université de Montréal & MILA
+    aff: MILA
     interest: AI X Neuroscience
     url: https://sites.google.com/site/irinarish
     image: assets/images/irina.jpeg
@@ -72,7 +72,7 @@ speakers:
   - name: Jian Tang
     url: https://jian-tang.com/
     interest: AI X Molecule
-    aff: Université de Montréal & MILA
+    aff: MILA
     topic: TBA
     image: assets/images/jian.jpeg
 
