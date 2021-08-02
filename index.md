@@ -8,70 +8,70 @@ speakers:
     url: https://yoshuabengio.org
     topic: Machine Learning for Discovery
     aff: MILA
-    interest: AI X Discovery
+    interest: AI *X* Discovery
     image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
     
   - name: Karianne Bergen
     url: https://www.kariannebergen.com/
     aff: Brown
-    interest: AI X Earth Science
+    interest: AI *X* Earth Science
     image: assets/images/karianne.jpeg
 
   - name: Connor Coley
     url: https://coley.mit.edu/
     aff: MIT
-    interest: AI X Chemistry
+    interest: AI *X* Chemistry
     image: assets/images/connor.jpeg
   
   - name: Shirley Ho
     url: https://users.flatironinstitute.org/~sho/index.html
     topic: TBD
-    interest: AI X Cosmology
+    interest: AI *X* Cosmology
     aff: Flatiron Institute
     image: assets/images/Ho_Shirley.jpeg
     
   - name: Pushmeet Kohli
     aff: DeepMind
-    interest: AI X Science
+    interest: AI *X* Science
     url: https://sites.google.com/site/pushmeet/
     image: assets/images/pushmeet.jpeg
     
   - name: Tie-Yan Liu
     url: https://www.microsoft.com/en-us/research/people/tyliu/?from=http%3A%2F%2Fresearch.microsoft.com%2Fusers%2Ftyliu
     aff: Microsoft Research
-    interest: AI X Science
+    interest: AI *X* Science
     image: assets/images/tyliu-2019-website.jpeg
     
   - name: Debora Marks
     url: https://www.deboramarkslab.com/
     aff: Havard
-    interest: AI X Biology
+    interest: AI *X* Biology
     topic: What kinds of machine learning should we use and develop to accelerate biomedical discovery?
     image: assets/images/marks_debora.jpeg
 
   - name: Tomaso Poggio
     url: https://mcgovern.mit.edu/profile/tomaso-poggio
     aff: MIT
-    interest: AI X Neuroscience
+    interest: AI *X* Neuroscience
     topic: Science and Engineering of Intelligence
     image: assets/images/Tomaso_poggio_2015.png
 
   - name: Bharath Ramsundar
     url: https://rbharath.github.io/about/
     aff: DeepChem
-    interest: AI X Open Science
+    interest: AI *X* Open Science
     topic: Open-source Community in AI for Science
     image: assets/images/bharath.jpeg
     
   - name: Irina Rish
     aff: MILA
-    interest: AI X Neuroscience
+    interest: AI *X* Neuroscience
     url: https://sites.google.com/site/irinarish
     image: assets/images/irina.jpeg
     
   - name: Jian Tang
     url: https://jian-tang.com/
-    interest: AI X Molecule
+    interest: AI *X* Molecule
     aff: MILA
     topic: TBA
     image: assets/images/jian.jpeg
@@ -79,7 +79,7 @@ speakers:
   - name: Petar Veličković
     url: https://petar-v.com/
     aff: DeepMind
-    interest: AI X Biology
+    interest: AI *X* Biology
     topic: TBA
     image: assets/images/petar.jpeg
 
