@@ -8,11 +8,27 @@ speakers:
     url: https://yoshuabengio.org
     topic: Machine Learning for Discovery
     image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
+    
+  - name: Karianne Bergen
+    url: https://www.kariannebergen.com/
+    image: assets/images/karianne.jpeg
+
+  - name: Connor Coley
+    url: https://coley.mit.edu/
+    image: assets/images/connor.jpeg
   
   - name: Shirley Ho
     url: https://users.flatironinstitute.org/~sho/index.html
     topic: TBD
     image: assets/images/Ho_Shirley.jpeg
+    
+  - name: Pushmeet Kohli
+    url: https://sites.google.com/site/pushmeet/
+    image: assets/images/pushmeet.jpeg
+    
+  - name: Tie-Yan Liu
+    url: https://www.microsoft.com/en-us/research/people/tyliu/?from=http%3A%2F%2Fresearch.microsoft.com%2Fusers%2Ftyliu
+    image: assets/images/tyliu-2019-website.jpeg
     
   - name: Debora Marks
     url: https://www.deboramarkslab.com/
@@ -29,6 +45,10 @@ speakers:
     topic: Open-source Community in AI for Science
     image: assets/images/bharath.jpeg
     
+  - name: Irina Rish
+    url: https://sites.google.com/site/irinarish
+    image: assets/images/irina.jpeg
+    
   - name: Jian Tang
     url: https://jian-tang.com/
     topic: TBA
@@ -38,27 +58,7 @@ speakers:
     url: https://petar-v.com/
     topic: TBA
     image: assets/images/petar.jpeg
-    
-panels:
-  - name: Karianne Bergen
-    url: https://www.kariannebergen.com/
-    image: assets/images/karianne.jpeg
-      
-  - name: Connor Coley
-    url: https://coley.mit.edu/
-    image: assets/images/connor.jpeg
-      
-  - name: Pushmeet Kohli
-    url: https://sites.google.com/site/pushmeet/
-    image: assets/images/pushmeet.jpeg
-    
-  - name: Tie-Yan Liu
-    url: https://www.microsoft.com/en-us/research/people/tyliu/?from=http%3A%2F%2Fresearch.microsoft.com%2Fusers%2Ftyliu
-    image: assets/images/tyliu-2019-website.jpeg
-      
-  - name: Irina Rish
-    url: https://sites.google.com/site/irinarish
-    image: assets/images/irina.jpeg
+
 
 StudentOrganizers:
   - name: Payal Chandak
@@ -162,29 +162,29 @@ However, little work has been done to bridge these gaps, mainly because of the m
 {% include team.html id="speakers" %}
 
 
-# Panel: Frontiers, gaps, and futures of AI for Science (In alphabetical order)
-
-
-<!--
-
-Speakers (alphabetical order): 
-[Karianne Bergen (confirmed)](https://www.kariannebergen.com/), [Connor Coley (confirmed)](https://coley.mit.edu/), [Pushmeet Kohli (confirmed)](https://sites.google.com/site/pushmeet/), [Irina Rish (confirmed)](https://sites.google.com/site/irinarish)
-
-<ul>
-{% for p in page.panels %}
-<li>
-<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
-</li>
-{% endfor %}
-</ul>
-
-Moderator:
-<ul>
-<li>TBA</li>
-</ul>
--->
-
-{% include team.html id="panels" %}
+<!--# Panel: Frontiers, gaps, and futures of AI for Science (In alphabetical order)-->
+<!---->
+<!---->
+<!--<!---->
+<!---->
+<!--Speakers (alphabetical order): -->
+<!--[Karianne Bergen (confirmed)](https://www.kariannebergen.com/), [Connor Coley (confirmed)](https://coley.mit.edu/), [Pushmeet Kohli (confirmed)](https://sites.google.com/site/pushmeet/), [Irina Rish (confirmed)](https://sites.google.com/site/irinarish)-->
+<!---->
+<!--<ul>-->
+<!--{% for p in page.panels %}-->
+<!--<li>-->
+<!--<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>-->
+<!--</li>-->
+<!--{% endfor %}-->
+<!--</ul>-->
+<!---->
+<!--Moderator:-->
+<!--<ul>-->
+<!--<li>TBA</li>-->
+<!--</ul>-->
+<!---->-->
+<!---->
+<!--{% include team.html id="panels" %}-->
 
 # Important Dates (AoE)
 
