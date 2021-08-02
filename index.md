@@ -7,55 +7,67 @@ speakers:
   - name: Yoshua Bengio
     url: https://yoshuabengio.org
     topic: Machine Learning for Discovery
+    aff: Université de Montréal & MILA
     image: https://mila.quebec/wp-content/uploads/2018/11/Yoshua-Bengio-2018-e1547992133705.jpg
     
   - name: Karianne Bergen
     url: https://www.kariannebergen.com/
+    aff: Brown University
     image: assets/images/karianne.jpeg
 
   - name: Connor Coley
     url: https://coley.mit.edu/
+    aff: MIT
     image: assets/images/connor.jpeg
   
   - name: Shirley Ho
     url: https://users.flatironinstitute.org/~sho/index.html
     topic: TBD
+    aff: Flatiron Institute
     image: assets/images/Ho_Shirley.jpeg
     
   - name: Pushmeet Kohli
+    aff: DeepMind
     url: https://sites.google.com/site/pushmeet/
     image: assets/images/pushmeet.jpeg
     
   - name: Tie-Yan Liu
     url: https://www.microsoft.com/en-us/research/people/tyliu/?from=http%3A%2F%2Fresearch.microsoft.com%2Fusers%2Ftyliu
+    aff: Microsoft Research Asia
     image: assets/images/tyliu-2019-website.jpeg
     
   - name: Debora Marks
     url: https://www.deboramarkslab.com/
+    aff: Havard
     topic: What kinds of machine learning should we use and develop to accelerate biomedical discovery?
     image: assets/images/marks_debora.jpeg
 
   - name: Tomaso Poggio
     url: https://mcgovern.mit.edu/profile/tomaso-poggio
+    aff: MIT
     topic: Science and Engineering of Intelligence
     image: assets/images/Tomaso_poggio_2015.png
 
   - name: Bharath Ramsundar
     url: https://rbharath.github.io/about/
+    aff: Deep Forest Science & DeepChem
     topic: Open-source Community in AI for Science
     image: assets/images/bharath.jpeg
     
   - name: Irina Rish
+    aff: Université de Montréal & MILA
     url: https://sites.google.com/site/irinarish
     image: assets/images/irina.jpeg
     
   - name: Jian Tang
     url: https://jian-tang.com/
+    aff: Université de Montréal & MILA
     topic: TBA
     image: assets/images/jian.jpeg
 
   - name: Petar Veličković
     url: https://petar-v.com/
+    aff: DeepMind
     topic: TBA
     image: assets/images/petar.jpeg
 
@@ -162,31 +174,8 @@ However, little work has been done to bridge these gaps, mainly because of the m
 {% include team.html id="speakers" %}
 
 
-<!--# Panel: Frontiers, gaps, and futures of AI for Science (In alphabetical order)-->
-<!---->
-<!---->
-<!--<!---->
-<!---->
-<!--Speakers (alphabetical order): -->
-<!--[Karianne Bergen (confirmed)](https://www.kariannebergen.com/), [Connor Coley (confirmed)](https://coley.mit.edu/), [Pushmeet Kohli (confirmed)](https://sites.google.com/site/pushmeet/), [Irina Rish (confirmed)](https://sites.google.com/site/irinarish)-->
-<!---->
-<!--<ul>-->
-<!--{% for p in page.panels %}-->
-<!--<li>-->
-<!--<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>-->
-<!--</li>-->
-<!--{% endfor %}-->
-<!--</ul>-->
-<!---->
-<!--Moderator:-->
-<!--<ul>-->
-<!--<li>TBA</li>-->
-<!--</ul>-->
-<!---->-->
-<!---->
-<!--{% include team.html id="panels" %}-->
 
-# Important Dates (AoE)
+# Important Dates (Anywhere on Earth)
 
 - Submission Deadline: Sep 18, 2021 
 - Author Notification: Oct 22, 2021 
