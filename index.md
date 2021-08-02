@@ -85,57 +85,57 @@ speakers:
 
 
 StudentOrganizers:
-  - name: Payal Chandak
+  - name: Payal Chandak (MIT)
     url: https://www.payalchandak.com/
     image: assets/images/test.jpeg
 
-  - name: Yuanqi Du
+  - name: Yuanqi Du (GMU)
     url: https://yuanqidu.github.io/
     image: assets/images/test.jpeg
     
-  - name: Tianfan Fu
+  - name: Tianfan Fu (Gatech)
     url: https://futianfan.github.io/
     image: assets/images/test.jpeg
     
-  - name: Wenhao Gao
+  - name: Wenhao Gao (MIT)
     url: https://scholar.google.com/citations?user=s4eywrUAAAAJ&hl=en
     image: assets/images/test.jpeg
     
-  - name: Kexin Huang
+  - name: Kexin Huang (Stanford)
     url: https://www.kexinhuang.com/
     image: assets/images/test.jpeg
     
-  - name: Shengchao Liu
+  - name: Shengchao Liu (MILA)
     url: https://chao1224.github.io/
     image: assets/images/test.jpeg
     
-  - name: Ziming Liu
+  - name: Ziming Liu (MIT)
     url: https://kindxiaoming.github.io/
     image: assets/images/test.jpeg
     
-  - name: Gabriel Spadon
+  - name: Gabriel Spadon (University of Sao Paulo)
     url: https://www.spadon.com.br/
     image: assets/images/test.jpeg
     
-  - name: Hanchen Wang
+  - name: Hanchen Wang (Cambridge)
     url: https://hansen7.github.io/
     image: assets/images/test.jpeg
 
 
 ProfessorOrganizers:
-  - name: Max Tegmark
+  - name: Max Tegmark (MIT)
     url: https://space.mit.edu/home/tegmark
     image: assets/images/test.jpeg
 
-  - name: Adrian Weller
+  - name: Adrian Weller (Cambridge)
     url: http://mlg.eng.cam.ac.uk/adrian
     image: assets/images/test.jpeg
 
-  - name: Max Welling
+  - name: Max Welling (UvA)
     url: https://staff.fnwi.uva.nl/m.welling
     image: assets/images/test.jpeg
 
-  - name: Marinka Zitnik
+  - name: Marinka Zitnik (Harvard)
     url: https://zitniklab.hms.harvard.edu
     image: assets/images/test.jpeg
 
