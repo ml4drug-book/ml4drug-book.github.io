@@ -4,10 +4,11 @@ title: "AI for Science: Mind the Gaps"
 permalink: /mentor
 ---
 
-## Deadline
+## Deadlines
 
-August 17th (for both mentors and mentees)
-
+- Mentee Application: August 17th, 2021 (AoE)
+- Mnetor Application: August 17th, 2021 (AoE)
+- Notification: Auguest 24th, 2021 (AoE)
 
 
 ## Applications
