@@ -7,7 +7,7 @@ permalink: /call
 # Call for Papers
 The 2021 NeurIPS AI for Science workshop calls for high-quality and cutting-edge abstract submissions in the following two tracks:
 
-(A) Original Research Track
+## (A) Original Research Track
 
 This track calls for 4-pages extended abstract of high-quality contributions from AI applications to all fields of scientific discovery, ranging from physics, biology, chemistry, earth science, environmental science, mechanical science, aerospace science, management science, agricultural science, material science, nuclear science etc. 
 
@@ -23,7 +23,7 @@ Some examples include (but not limited to):
 - Building tools/infrastructures/platforms for scientific discovery
 - Study of science of science/scientific methods
 
-(B) Attention Track
+## (B) Attention Track
 
 This track solicits 2-pages abstract submissions that highlight a perspective of a subject in the field of AI for Science. We especially welcome contributions that highlight the gaps between AI and Science. Example topics include (but not limited to):
 

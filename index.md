@@ -188,10 +188,10 @@ Moderator:
 
 # Important Dates
 
-- Submission Deadline: Sep 17, 2021
-- Author Notification: Oct 22, 2021
-- Conference Date: Dec 6-14, 2021
-- Workshop Date: Dec 13-14, 2021
+- Submission Deadline: Sep 18, 2021 (AoE)
+- Author Notification: Oct 22, 2021 (AoE)
+- Conference Date: Dec 6-14, 2021 (AoE)
+- Workshop Date: Dec 13-14, 2021 (AoE)
 
 # Organizers and Contact
 
