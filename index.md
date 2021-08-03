@@ -113,7 +113,7 @@ StudentOrganizers:
     url: https://kindxiaoming.github.io/
     image: assets/images/test.jpeg
     
-  - name: Gabriel Spadon (University of Sao Paulo)
+  - name: Gabriel Spadon (Dalhousie University)
     url: https://www.spadon.com.br/
     image: assets/images/test.jpeg
     
