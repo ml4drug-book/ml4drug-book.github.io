@@ -36,6 +36,6 @@ This track solicits 2-pages abstract submissions that highlight a perspective of
 
 # Submission Instructions
 
-Submissions are due on **Sep 18th AoE** and will be managed through OpenReview (posted soon). The review process is double-blind so the submission should be anonymized. The submission can be finalized or work in progress.  
+Submissions are due on **Sep 18th AoE** and will be managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/AI4Science). The review process is double-blind so the submission should be anonymized. The submission can be finalized or work in progress.  
 Please use [AI for Science template Latex files](https://bit.ly/3rOZaZl). Note that for attention track submissions, authors are required to set ‘\usepackage[attention]{neurips_2021}’ to indicate. 
 Accepted papers would be archived on the workshop website. Contributed talks and best paper awards would be given based on review scores and chairs discussion. 
