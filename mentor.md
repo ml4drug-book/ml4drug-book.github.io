@@ -7,7 +7,7 @@ permalink: /mentor
 ## Deadlines (Anywhere on Earth)
 
 - Mentee Application: August 17th, 2021
-- Mnetor Application: August 17th, 2021
+- Mentor Application: August 17th, 2021
 - Notification: Auguest 24th, 2021
 
 ## Applications
