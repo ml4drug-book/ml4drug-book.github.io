@@ -161,30 +161,13 @@ However, little work has been done to bridge these gaps, mainly because of the m
 + Pinpoint grand challenges at the intersection of multiple scientific disciplines (biology, chemistry, physics, neuroscience, etc).
 + Highlight how ML can change or complement classic scientific methods and transform the science of scientific discovery itself.
 
+## Attendance
+
+We welcome people with diverse background and level of experience to attend our workshop. The attendance is not contingent upon paper submission. Consider to apply for a travel award.
+
 # Invited Talks (In alphabetical order)
 
-<!--
-{% include team.html id="team" %}
-
-<table>
-  <tr>
-    <th>Speaker</th>
-    <th>Topic</th>
-  </tr>
-  {% for speaker in page.speakers %}
-    <tr>
-      <td>
-      <a{% if speaker.url %} href="{{ speaker.url }}"{% endif %}>{{ speaker.name }}</a>
-      </td>
-      <td><b>{{ speaker.title }}</b></td>
-    </tr>
-  {% endfor %}
-</table>
-
--->
-
 {% include team.html id="speakers" %}
-
 
 
 # Important Dates (Anywhere on Earth)
@@ -217,9 +200,3 @@ Organizers are in the alphabetical order. For any question, please contact [ai4s
 {% endfor %}
 </ul>
 
-
-<!-----
-{% include team.html id="StudentOrganizers" %}
-
-{% include team.html id="ProfessorOrganizers" %}
----->
