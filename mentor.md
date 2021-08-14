@@ -10,9 +10,15 @@ permalink: /mentor
 - Mentor Application: August 17th, 2021
 - Notification: Auguest 24th, 2021
 
+Mentorship track paper submission deadline: October 15th, 2021
+
+
+
 ## Applications
 
 Both Mentee and Mentor application (deadline Aug 17th) are via [this google form](https://docs.google.com/forms/d/e/1FAIpQLSepYNm_s12nwhOH1QXEIuHIeU5Jdy3MCXzKE55oBpjuJV-lQA/viewform?usp=sf_link).
+
+An increasing number of junior researchers have the willing to join the young and dynamic “AI for Science” community, so we launch this mentorship program to pave their ways. The mentorship program aims to encourage exchange between potential workshop submitters (regular paper track, attention track and mentorship track are all Okay) and senior researchers working in related AI and/or Science fields, as well as aims to improve quality and potential impact of submissions. 
 
 An increasing number of junior researchers have the willing to join the young and dynamic “AI for Science” community, so we launch this mentorship program to pave their ways. The mentorship program aims to encourage exchange between potential workshop submitters (both regular track or attention track are OK) and senior researchers working in related AI and/or Science fields, as well as aims to improve quality and potential impact of submissions.
 
@@ -20,9 +26,11 @@ An increasing number of junior researchers have the willing to join the young an
 
 ## Expectations
 
-Mentors are expected to guide mentees during the four weeks of the mentorship program (Aug 18th - Sep 18th) as mentees prepare submissions for this workshop.
+Mentors are expected to guide mentees during the seven weeks of the mentorship program (Aug 24th - Oct 15th) as mentees prepare submissions for this workshop. 
 
-We do not require any forms of interaction between the mentor and mentee in order to maximize the flexibility, but would require that the mentor expects to commit 2-4 hours over the four-week mentorship program (For example, one-hour discussion every week/two weeks). We suggest the first meeting should take place within the first week (Aug 18th - Sep 4th). We encourage mentees and mentors to have in mind their duties, some of which are listed below.
+Papers produced from the mentorship program are on a different track from regular papers. Be sure to include ‘\usepackage[mentorship]{neurips_2021}’ so that we know you participate in the mentorship track. Awards and presentation opportunities are provided for winners of the mentorship program. While participating in the mentorship program, if the mentor and mentee agree, you can also submit to the regular paper track or the attention track. But please do note that we have an extended deadline Oct 15th for the mentorship track as opposed to Sep 18th for the regular track. And the mentorship track has its own Best Paper Award and spotlight talks during the workshop.
+
+We do not require any forms of interaction between the mentor and mentee in order to maximize the flexibility, but would require that the mentor expects to commit 2-4 hours over the seven-week mentorship program (For example, one-hour discussion every week/two weeks). We suggest the first meeting should take place within the first week (Aug 24th - Aug 31st). We encourage mentees and mentors to have in mind their duties, some of which are listed below.
 
 Mentee duties:
 - Have an initial idea
