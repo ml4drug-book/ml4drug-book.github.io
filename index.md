@@ -167,7 +167,7 @@ We welcome people with diverse background and level of experience to attend our 
 
 ## Follow Us
 
-Please follow us on [twitter](https://twitter.com/AI_for_Science) and [linked-in](https://www.linkedin.com/company/ai-for-science/) for the latest news.
+Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news.
 
 # Invited Talks (In alphabetical order)
 
