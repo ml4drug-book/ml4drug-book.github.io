@@ -165,6 +165,10 @@ However, little work has been done to bridge these gaps, mainly because of the m
 
 We welcome people with diverse background and level of experience to attend our workshop. The attendance is not contingent upon paper submission. Consider to apply for a travel award.
 
+## Follow Us
+
+Please follow us on [twitter](https://twitter.com/AI_for_Science) and [linked-in](https://www.linkedin.com/company/ai-for-science/) for the latest news.
+
 # Invited Talks (In alphabetical order)
 
 {% include team.html id="speakers" %}
