@@ -9,7 +9,7 @@ The 2021 NeurIPS AI for Science workshop calls for high-quality and cutting-edge
 
 ## (A) Original Research Track
 
-This track calls for 4-pages extended abstract of high-quality contributions from AI applications to all fields of scientific discovery, ranging from physics, biology, chemistry, earth science, environmental science, mechanical science, aerospace science, management science, agricultural science, material science, nuclear science etc. (Reference not included in the 4-page limit.)
+This track calls for 4-pages extended abstract of high-quality contributions from AI applications to all fields of scientific discovery, ranging from physics, biology, chemistry, earth science, environmental science, mechanical science, aerospace science, management science, agricultural science, material science, nuclear science etc. (Reference not included in the 4-page limit). Appendix is optional, but reviewers are not required to read. 
 
 Example topics include (but not limited to):
 - Learning physical dynamics from data
