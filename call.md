@@ -37,7 +37,7 @@ Example topics include (but not limited to):
 
 # Submission Instructions
 
-Abstract deadline is due on **Sep 18th AoE**, and submisssion deadline is due on **Sep 25th AoE**. All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/AI4Science).
+---Submisssion is due on **Sep 18th AoE**--- Abstract is due on **Sep 18th AoE**, and submisssion is due on **Sep 25th AoE**. All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/AI4Science).
 The review process is double-blind so the submission should be anonymized. We welcome submissions that are (1) originally unpublished, (2) recently published, or (3) work-in-progress.
 Please use [AI for Science template Latex files](https://bit.ly/3rOZaZl). Note that for attention track submissions, authors are required to set ‘\usepackage[attention]{neurips_2021}’ to indicate. 
 Accepted papers would be archived on the workshop website. Contributed talks and best paper awards would be given based on review scores and chairs discussion. 
