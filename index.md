@@ -176,7 +176,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 # Important Dates (Anywhere on Earth)
 
-- <del>Abstract Deadline: Sep 18, 2021</del>
+- <del>Submission Deadline: Sep 18, 2021</del>
 - Abstract Deadline: Sep 18, 2021 
 - Submission Deadline: Sep 25, 2021 
 - Author Notification: Oct 22, 2021 
