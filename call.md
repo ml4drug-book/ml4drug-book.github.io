@@ -25,7 +25,7 @@ Example topics include (but not limited to):
 
 ## (B) Attention Track
 
-This track solicits 2-page paper submissions that highlight a perspective of a subject in the field of AI for Science. We especially welcome contributions that highlight the gaps between AI and Science. (Reference not included in the 2-page limit.)
+This track solicits 2-page short paper that highlights a perspective of a subject in the field of AI for Science. We especially welcome contributions that highlight the gaps between AI and Science. (Reference not included in the 2-page limit.)
 
 Example topics include (but not limited to):
 - Unrealistic ML methodological assumptions
