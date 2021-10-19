@@ -167,7 +167,7 @@ We welcome people with diverse background and level of experience to attend our 
 
 ## Follow Us
 
-Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-vr4tabdw-wIwU8BgKlFhbI9upY9Fcjg) for active discussions.
+Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-xc7lj5qu-1Ke~~MbYfFa5_5FRAVXWQQ) for active discussions.
 
 # Invited Talks (In alphabetical order)
 
