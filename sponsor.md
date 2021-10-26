@@ -8,7 +8,7 @@ permalink: /sponsor
 
 We are grateful for the generous funding from our list of sponsors:
 
-[BioMap](https://www.biomap-imi.eu/)
+[BioMap](https://www.biomap.com/)
 
 [DeepMind](https://deepmind.com/)
 
