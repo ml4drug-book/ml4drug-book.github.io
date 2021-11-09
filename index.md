@@ -180,7 +180,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 - Abstract Deadline: Sep 18, 2021 
 - Submission Deadline: Sep 25, 2021 
 - Author Notification: Oct 22, 2021
-- Travel Award Application: Nov 1st -- Dec 1st, 2021
+- Travel Award Application: Nov 1st -- Nov 21st, 2021
 - Conference Date: Dec 6-14, 2021 
 - Workshop Date: 05:00 AM -- 05:00 PM (PST), Dec 13, 2021
 
