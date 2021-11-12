@@ -1,0 +1,75 @@
+---
+layout: default
+title: "AI for Science: Mind the Gaps"
+permalink: /accepted
+---
+
+- [On the feasibility of small-data learning in simulation-driven engineering tasks with known mechanisms and effective data representations](https://openreview.net/forum?id=qvxJBCp7aji) Haosu Zhou ,Hamid Reza Attar ,Yue Pan ,Xuetao Li ,Peter R N Childs ,Nan Li
+- [Apertures in Agriculture Seeking Attention](https://openreview.net/forum?id=vKrGCS5uUhb) Sanchita Das ,Ramya Srinivasan
+- [Flood Segmentation on Sentinel-1 SAR Imagery with Semi-Supervised Learning](https://openreview.net/forum?id=kXgbFvXcwDX) Sayak Paul ,Siddha Ganju
+- [Drug Re-positioning via Text Augmented Knowledge Graph Embeddings](https://openreview.net/forum?id=qI-IS8DPq_N) Mian Zhong ,Tiancheng Hu ,Ying Jiao ,Shehzaad Zuzar Dhuliawala ,Bipin Singh
+- [Training and Evaluating Prediction Models on Electronic Health Records of COVID-19 Patients](https://openreview.net/forum?id=pcqMqTZDvrM) Prateek Chanda ,Malay Bhattacharyya
+- [What Should We Work on Next? Opportunities for AI-Assisted Research Prioritization](https://openreview.net/forum?id=Hwm2y2CxfUU) Dan Lahav ,Eric Horvitz ,Tom Hope
+- [Novel fuzzy approach to Antimicrobial Peptide Activity Prediction: A tale of limited and imbalanced data that models won’t hear](https://openreview.net/forum?id=x0tzOYvapDl) Aviral Chharia ,Rahul Upadhyay ,Vinay Kumar
+- [3D Pre-training improves GNNs for Molecular Property Prediction](https://openreview.net/forum?id=8K23ZyTIKuF) Hannes Stärk ,Dominique Beaini ,Gabriele Corso ,Prudencio Tossou ,Christian Dallago ,Stephan Günnemann ,Pietro Lio
+- [Preserving Openness in Machine Learning Research](https://openreview.net/forum?id=WQBz2O_LuBX) Jonathan Frankle ,Jessica Zosa Forde
+- [GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://openreview.net/forum?id=nUktmJLz0up) Yuanqi Du ,Shiyu Wang ,Xiaojie Guo ,Hengning Cao ,Shujie Hu ,Junji Jiang ,Aishwarya Varala ,Abhinav Angirekula ,Liang Zhao
+- [Interpreting Molecular Space with Deep Generative Models](https://openreview.net/forum?id=vbNoyRyvL2G) Yuanqi Du ,Xian Liu ,Shengchao Liu ,Bolei Zhou
+- [Accurate Multi-Endpoint Molecular Toxicity Predictions in Humans with Contrastive Explanations](https://openreview.net/forum?id=GXXqqeWcqaI) Bhanushee Sharma ,Vijil Chenthamarakshan ,Amit Dhurandhar ,Shiranee Pereira ,James Hendler ,Jonathan S. Dordick ,Payel Das
+- [Neuroprospecting with DeepRL agents](https://openreview.net/forum?id=5Q-sYQ9tD5j) Satpreet Harcharan Singh
+- [Physical Benchmarking for AI-generated Cosmic Web](https://openreview.net/forum?id=7lTdLaW9jEB) Xiaofeng Dong ,Nesar Ramachandra ,Salman Habib ,Katrin Heitmann ,Michael Buehlmann ,Sandeep Madireddy
+- [Linear Transformations in Autoencoder Latent Space Predict Time Translations in Active Matter System](https://openreview.net/forum?id=ZDBDTHSoMDU) Enrique Amaya ,Shahriar Shadkhoo ,Dominik Schildknecht ,Matt Thomson
+- [Cosmology with Deep Learning: New Opportunities for Line Intensity Mapping](https://openreview.net/forum?id=VFi3Bjzx14x) Karolina Garcia ,naman shukla
+- [Transfer Learning Approaches for Knowledge Discovery in Grid-based Geo-Spatiotemporal Data](https://openreview.net/forum?id=mC6-nsYtacP) Aishwarya Sarkar ,Jien Zhang ,Chaoqun Lu ,Ali Jannesari
+- [Physics-Augmented Learning: A New Paradigm Beyond Physics-Informed Learning](https://openreview.net/forum?id=suxElmrPNAY) Ziming Liu ,Yuanqi Du ,Yunyue Chen ,Max Tegmark
+- [Generative Neural Network Based Non-Convex Optimization Using Policy Gradients with an Application to Electromagnetic Design](https://openreview.net/forum?id=SodRp33gCuk) Sean Hooten ,Sri Krishna Vadlamani ,Raymond G. Beausoleil ,Thomas Van Vaerenbergh
+- [Discovering Dynamical Parameters by Interpreting Echo State Networks](https://openreview.net/forum?id=coaSxusdBLX) Oreoluwa Alao ,Peter Y Lu ,Marin Soljacic
+- [Single Reference Frequency Loss for Multi-frequency Wavefield Representation using Physics-Informed Neural Networks](https://openreview.net/forum?id=YKOxeWFsQfq) Xinquan Huang ,Tariq Alkhalifah
+- [Improving Hit-finding: Multilabel Neural Architecture with DEL](https://openreview.net/forum?id=fScB3uII-JV) Kehang Han ,Steven Kearnes ,Jin Xu ,Wen Torng ,JW Feng
+- [Distributed Deep Learning for Persistent Monitoring of agricultural Fields](https://openreview.net/forum?id=rctFXFsFvbI) Yasaman Esfandiari ,Koushik Nagasubramanian ,Fateme Fotouhi ,Patrick S. Schnable ,Baskar Ganapathysubramanian ,Soumik Sarkar
+- [Predicting and Explaining Human Intelligence from Resting State fMRI Data](https://openreview.net/forum?id=7xrgR8LEDo0) Evan Anderson ,Anuj Nayak ,Sourya Basu ,Ramsey Wilcox ,Pablo Robles-Granda ,Christopher Zwilling ,Aron Barbey ,Been Kim ,Lav R. Varshney
+- [Uncovering motif interactions from convolutional-attention networks for genomics](https://openreview.net/forum?id=ITOQhccyRsk) Rohan Singh Ghotra ,Nicholas Keone Lee ,Peter K Koo
+- [Advanced Methods for Connectome-Based Predictive Modeling of Human Intelligence: A Novel Approach Based on Individual Differences in Cortical Topography](https://openreview.net/forum?id=VJ1KoBzl3ja) Evan Anderson ,Ramsey Wilcox ,Anuj Nayak ,Christopher Zwilling ,Pablo Robles-Granda ,Lav R. Varshney ,Been Kim ,Aron Barbey
+- [Towards trustworthy explanations with gradient-based attribution methods](https://openreview.net/forum?id=LGgo0wPM2MF) Ethan Louis Labelson ,Rohit Tripathy ,Peter K Koo
+- [AI as statistical methods for imperfect theories](https://openreview.net/forum?id=rzWxx4jAH79) Gael Varoquaux
+- [AI for Data Structures: the Benefits of Overfitting for Distance Oracles and Distance Labels](https://openreview.net/forum?id=48TVv-4ectO) Marcus Ding ,Sarel Cohen ,Vanja Doskoc ,Maximilian Katzmann ,Louise Molitor ,Davide Bilò ,Tobias Friedrich
+- [How would AI shape CALculation of PHAse Diagrams?](https://openreview.net/forum?id=A-zkqULBY6u) Chu-Liang Fu ,Bi-Cheng Zhou
+- [From Convolutions towards Spikes: The Environmental Metric that the Community currently Misses](https://openreview.net/forum?id=wqYZ9dsHrCq) Aviral Chharia ,Shivu Chauhan ,Rahul Upadhyay ,Vinay Kumar
+- [Identification of Enzymatic Active Sites with Unsupervised Language Modelling](https://openreview.net/forum?id=ys8reOFHJdw) Loïc Dassi Kwate ,Matteo Manica ,Daniel Probst ,Philippe Schwaller ,Yves Gaetan Nana Teukam ,Teodoro Laino
+- [A Fresh Look at De Novo Molecular Design Benchmarks](https://openreview.net/forum?id=gS3XMun4cl_) Austin Tripp ,Gregor N. C. Simm ,José Miguel Hernández-Lobato
+- [Semi-supervised Graph Neural Network for Particle-level Noise Removal](https://openreview.net/forum?id=kTIngiqLU-X) Tianchun Li ,Shikun Liu ,Yongbin Feng ,Nhan Tran ,Miaoyuan Liu ,Pan Li
+- [Importance of Benchmarking Data Splits for the Evaluation of Protein-Ligand Interactions](https://openreview.net/forum?id=28SUSAoEeEl) Kanakala Ganesh Chandan ,Rishal Aggarwal ,Divya Nayar ,Deva Priyakumar
+- [Human-in-the-loop for a Disconnection Aware Retrosynthesis](https://openreview.net/forum?id=-xfwlkmsfN1) Andrea Byekwaso ,Philippe Schwaller ,Alain C. Vaucher ,Alessandra Toniato ,Teodoro Laino
+- [Learning Large-Time-Step Molecular Dynamics with Graph Neural Networks](https://openreview.net/forum?id=cmXGBW7hN6Q) Tianze Zheng ,Weihao Gao ,Chong Wang
+- [Learning to Simulate Unseen Physical Systems with Graph Neural Networks](https://openreview.net/forum?id=9Xh1v7Y9MAj) Ce Yang ,Weihao Gao ,Di Wu ,Chong Wang
+- [Graph Neural Networks for Double-Strand DNA Breaks Prediction](https://openreview.net/forum?id=dt1E6n0ZvLT) Xu Wang ,Huan Zhao ,Wei-Wei Tu ,Hao Li ,Yu Sun ,Xiaochen Bo
+- [Towards Brain-to-Text Generation: Neural Decoding with Pre-trained Encoder-Decoder Models](https://openreview.net/forum?id=13IJlk221xG) Shuxian Zou ,Shaonan Wang ,Jiajun Zhang ,Chengqing Zong
+- [AI Methods for Designing Energy-Efficient Buildings in Urban Environments](https://openreview.net/forum?id=ar4JQAhtYS5) Sirine Taleb ,Aram Yeretzian ,Rabih A. Jabr ,Hazem Hajj
+- [Fragment-Based Sequential Translation for Molecular Optimization](https://openreview.net/forum?id=E_Slr0JVvuC) Benson Chen ,Xiang Fu ,Regina Barzilay ,Tommi S. Jaakkola
+- [Traversing Geodesics to Grow Biological Structures](https://openreview.net/forum?id=d98iZejhrGe) Pranav Bhamidipati ,Guruprasad Raghavan ,Matt Thomson
+- [$\textit{Ab Initio}$ Discovery of Biological Knowledge from scRNA-Seq Data Using Machine Learning](https://openreview.net/forum?id=MVycrVfZtUx) Najeebullah Shah ,Jiaqi Li ,Fanhong Li ,Wenchang Chen ,Haoxiang Gao ,Sijie Chen ,Kui Hua ,Xuegong Zhang
+- [Improving the spectral resolution of fMRI signals through the temporal de-correlation approach](https://openreview.net/forum?id=kbvHXsyQjd1) Wenjun Bai ,Junichiro Yoshimoto
+- [Incorporating Simplification and Empirical Derivatives in Symbolic Regression](https://openreview.net/forum?id=pA0oTjoToZz) Kei Sen Fong ,Shelvia Wongso ,Mehul Motani
+- [Joint Content-Context Analysis of Scientific Publications: Identifying Opportunities for Collaboration in Cognitive Science](https://openreview.net/forum?id=yzVECygEpF_) Lu Cheng ,Girish Ganesan ,William He ,Daniel Silverston ,Harlin Lee ,Jacob Gates Foster
+- [Scientific Argument with Supervised Learning](https://openreview.net/forum?id=uGe5cXJXkib) Jeffrey W Lockhart ,Abigail Z Jacobs
+- [Machine learning for novel antibiotics domains - case conjugated oligoelectrolytes](https://openreview.net/forum?id=kmK4jKeIUQh) Armi Tiihonen ,Sarah J Cox-Vazquez ,Guillermo Bazan ,Tonio Buonassisi
+- [Bayesian Optimal Experimental Design for Simulator Models of Cognition](https://openreview.net/forum?id=PNMTx1cx3UU) Simon Valentin ,Steven Kleinegesse ,Neil R. Bramley ,Michael U. Gutmann ,Christopher G. Lucas
+- [Scientific Language Models for Biomedical Knowledge Base Completion: An Empirical Study](https://openreview.net/forum?id=3pOp2EXTxWg) Rahul Nadkarni ,David Wadden ,Iz Beltagy ,Noah Smith ,Hannaneh Hajishirzi ,Tom Hope
+- [Bursting Scientific Filter Bubbles: Boosting Innovation via Novel Author Discovery](https://openreview.net/forum?id=bpTUY9QcROH) Jason Portenoy ,Marissa Radensky ,Jevin West ,Eric Horvitz ,Daniel S Weld ,Tom Hope
+- [Molecular Energy Learning Using Alternative Blackbox Matrix-Matrix Multiplication Algorithm for Exact Gaussian Process](https://openreview.net/forum?id=lyJ9BRKUzms) Jiace Sun ,Lixue Cheng ,Thomas Miller
+- [Regression modeling on DNA encoded libraries](https://openreview.net/forum?id=rrcoPmV1XgN) Ralph Ma ,Gabriel Hart Stocker Dreiman ,Fiorella Ruggiu ,Adam Joseph Riesselman ,Bowen Liu ,Keith James ,Mohammad Sultan ,Daphne Koller
+- [A Search Engine for Discovery of Scientific Challenges and Directions](https://openreview.net/forum?id=-Vtgk5VlsKf) Dan Lahav ,Jon Saad-Falcon ,Bailey Kuehl ,Sophie Johnson ,Sravanthi Parasa ,Noam Shomron ,Duen Horng Chau ,Diyi Yang ,Eric Horvitz ,Daniel S Weld ,Tom Hope
+- [Bringing Atomistic Deep Learning to Prime Time](https://openreview.net/forum?id=TpCJZjDEsXe) Nathan C. Frey ,Siddharth Samsi ,Bharath Ramsundar ,Connor W. Coley ,Vijay Gadepally
+- [Scalable Geometric Deep Learning on Molecular Graphs](https://openreview.net/forum?id=oeq0YQYn8Dv) Nathan C. Frey ,Siddharth Samsi ,Joseph McDonald ,Lin Li ,Connor W. Coley ,Vijay Gadepally
+- [Scalable Bayesian Optimization Accelerates Process Optimization of Penicillin Production](https://openreview.net/forum?id=UVdSYXMNdOe) Qiaohao Liang ,Lipeng Lai
+- [Innovation Triangle to Drive AI for Science](https://openreview.net/forum?id=P5PzCG0U9km) Tomasz Bednarz
+- [This Earthquake Doesn't Exist](https://openreview.net/forum?id=YJnpUHXNtQf) Artemii Novoselov ,Krisztina Sinkovics ,Goetz Bokelmann
+- [Multi-task Learning with Domain Knowledge for Molecular Property Prediction](https://openreview.net/forum?id=6cWgY5Epwzo) Shengchao Liu ,Meng Qu ,Zuobai Zhang ,Huiyu Cai ,Jian Tang
+- [High-Dimensional Discrete Bayesian Optimization with Self-Supervised Representation Learning for Data-Efficient Materials Exploration](https://openreview.net/forum?id=xJhjehqjQeB) Masaki Adachi
+- [Bayesian optimization with prescreening for high fitness variants of protein G domain B1](https://openreview.net/forum?id=ZR1dhH9lR6y) Lixue Cheng ,Ziyi Yang ,Chang-Yu Hsieh
+- [Adaptive Pseudo-labeling for Quantum Calculations](https://openreview.net/forum?id=euX4TU0ryp2) Kexin Huang ,Vishnu Sresht ,Brajesh Rai ,Mykola Bordyuh
+- [Fast Quantum Property Prediction via Deeper 2D and 3D Graph Networks](https://openreview.net/forum?id=4eQV5amfVNL) Meng Liu ,Cong Fu ,Xuan Zhang ,Limei Wang ,Yaochen Xie ,Hao Yuan ,Youzhi Luo ,Zhao Xu ,Shenglong Xu ,Shuiwang Ji
+- [Multi-modal Self-supervised Pre-training for Large-scale Genome Data](https://openreview.net/forum?id=fdV-GZ4LPfn) Shentong Mo ,Xi Fu ,Chenyang Hong ,Yizhen Chen ,Yuxuan Zheng ,Xiangru Tang ,Yanyan Lan ,Zhiqiang Shen ,Eric Xing
+- [An Improved DGCNN High-energy Particles Classification Model](https://openreview.net/forum?id=dAJ9De4q5Vz) Wei Gao ,Yaosong Li ,Dazhou Li
+- [AA-PINN: Attention Augmented Physics Informed Neural Networks](https://openreview.net/forum?id=hlniRPNh-Oa) Abhinav Sagar
+- [Multiple Sequential Learning Tasks Represented in Recurrent Neural Networks](https://openreview.net/forum?id=wi5u5Ob4XZ4) Shaonan Wang ,Bingyu Liu
