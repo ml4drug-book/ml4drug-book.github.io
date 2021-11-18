@@ -4,6 +4,7 @@ title: "AI for Science: Mind the Gaps"
 permalink: /accepted
 ---
 
+
 - [On the feasibility of small-data learning in simulation-driven engineering tasks with known mechanisms and effective data representations](https://openreview.net/forum?id=qvxJBCp7aji) Haosu Zhou ,Hamid Reza Attar ,Yue Pan ,Xuetao Li ,Peter R N Childs ,Nan Li
 - [Apertures in Agriculture Seeking Attention](https://openreview.net/forum?id=vKrGCS5uUhb) Sanchita Das ,Ramya Srinivasan
 - [Flood Segmentation on Sentinel-1 SAR Imagery with Semi-Supervised Learning](https://openreview.net/forum?id=kXgbFvXcwDX) Sayak Paul ,Siddha Ganju
