@@ -4,7 +4,9 @@ title: "AI for Science: Mind the Gaps"
 permalink: /schedule
 ---
 
-# Schedule (in PST)
+# Schedule
+
+05:00 AM – 05:00 PM (PST), Dec 13, 2021
 
 | Event | | Time |
 | :--- | --- | :--- |
