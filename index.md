@@ -79,7 +79,7 @@ speakers:
   - name: Petar Veličković
     url: https://petar-v.com/
     aff: DeepMind
-    interest: ?
+    interest: 
     topic: TBA
     image: assets/images/petar.jpeg
 
