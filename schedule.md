@@ -10,18 +10,23 @@ permalink: /schedule
 
 Will be updated.
 
-<!-- 
 | Event | | Time |
 | :--- | --- | :--- |
 | Openning Remarks | Organizing Team | 8:00-8:15am |
 | Invited Talk | Tie-Yan Liu | 8:15-9:00am |
 | Invited Talk | Petar Veličković  | 9:00-9:45am |
-| Poster Session | | 11:10am - 12:00pm |
+| Contributed Talk | | 9:45-9:55 am |
+| Contributed Talk | | 10:00-10:10 am |
+| Panel Discussion | | 10:10-11:10 am|
+| Poster Session | | 11:10am-12:00pm |
 | Invited Talk | Connor Coley | 12:00-12:45pm |
+| Contributed Talk | | 12:45-12:55 pm |
 | Invited Talk | Jian Tang | 1:00-1:45pm |
-| Invited Talk | Shirley Ho | 2:00-2:45pm |
+| Contributed Talk | | 1:45-1:55 pm |
+| Invited Talk | Shirley Ho | 2:00-2:45 pm |
+| Contributed Talk | | 2:45-2:55 pm|
+| Contributed Talk | | 3:00-3:10 pm |
 | Invited Talk | Yoshua Bengio | 3:10-3:55pm |
 | Invited Talk | Tomaso Poggio | 4:00-4:45pm |
-| Poster Session | | 4:55-6:00pm |
 | Closing Remarks | Organizing Team | 4:45-4:55pm |
- -->
+| Poster Session | | 4:55-6:00pm |
