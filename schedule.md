@@ -17,7 +17,7 @@ Will be updated.
 | Invited Talk | Petar Veličković  | 9:00-9:45am |
 | Contributed Talk | | 9:45-9:55 am |
 | Contributed Talk | | 10:00-10:10 am |
-| Panel Discussion | | 10:10-11:10 am|
+| Panel Discussion | Moderator: Max Welling, Panelists: Bharath Ramsundar, Irina Rish, Pushmeet Kohli, Karianne Bergen | 10:10-11:10 am|
 | Poster Session | | 11:10am-12:00pm |
 | Invited Talk | Connor Coley | 12:00-12:45pm |
 | Contributed Talk | | 12:45-12:55 pm |
