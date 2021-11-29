@@ -6,7 +6,7 @@ permalink: /schedule
 
 # Schedule
 
-05:00 AM – 05:00 PM (PST), Dec 13, 2021
+08:00 AM – 06:00 PM (EST), Dec 13, 2021
 
 Will be updated.
 
