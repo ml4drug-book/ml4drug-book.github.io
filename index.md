@@ -182,7 +182,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 - <del>Author Notification: Oct 22, 2021</del>
 - <del>Travel Award Application: Nov 1st -- Nov 21st, 2021</del>
 - Conference Date: Dec 6-14, 2021
-- Workshop Date: 05:00 AM -- 05:00 PM (PST), Dec 13, 2021
+- Workshop Date: 08:00 AM -- 06:00 PM (EST), Dec 13, 2021
 
 # Organizers and Contact
 
