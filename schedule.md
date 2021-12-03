@@ -15,7 +15,6 @@ Will be updated.
 | Openning Remarks | Organizing Team | 8:00-8:15am |
 | Invited Talk | Tie-Yan Liu | 8:15-9:00am |
 | Invited Talk | Petar Veličković  | 9:00-9:45am |
-| Contributed Talk | | 9:45-9:55 am |
 | Contributed Talk | Learning Large-Time-Step Molecular Dynamics with Graph Neural Networks<br>Tianze Zheng, Weihao Gao, Chong Wang| 10:00-10:10 am |
 | Panel Discussion | Panelists: Bharath Ramsundar, Irina Rish, Pushmeet Kohli, Karianne Bergen<br>Moderator: Max Welling | 10:10-11:10 am|
 | Poster Session | | 11:10am-12:00pm |
