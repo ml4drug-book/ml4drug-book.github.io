@@ -9,8 +9,8 @@ permalink: /schedule
 08:00 AM – 06:00 PM (EST), Dec 13, 2021
 
 - [NeurIPS Virtual Page](https://neurips.cc/virtual/2021/workshop/21849) (login required)
-- [GatherTown for Poster Session A](https://tinyurl.com/ai4sciposter1)
-- [GatherTown for Poster Session B](https://tinyurl.com/ai4sciposter2)
+- [GatherTown for poster room A](https://tinyurl.com/ai4sciposter1)
+- [GatherTown for poster room B](https://tinyurl.com/ai4sciposter2)
 
 | Event | | Time |
 | :--- | --- | :--- |
