@@ -8,7 +8,7 @@ permalink: /schedule
 
 08:00 AM – 06:00 PM (EST), Dec 13, 2021
 
-Will be updated.
+[NeurIPS Virtual Page](https://neurips.cc/virtual/2021/workshop/21849) (login required), [GatherTown](https://gather.town/app/T5ACX6NecRJO5i9N/ai4sci-poster-room)
 
 | Event | | Time |
 | :--- | --- | :--- |
