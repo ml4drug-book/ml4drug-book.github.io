@@ -12,4 +12,8 @@ Applications: Please fill in this [form](https://forms.gle/hiMvtPBJhzH1Ukfh8).
 
 # Best Paper Awards
 
-TBA
+[Discovering Dynamical Parameters by Interpreting Echo State Networks](https://openreview.net/forum?id=coaSxusdBLX)<br>
+*Oreoluwa Alao, Peter Y Lu, Marin Soljacic*
+
+[Uncovering motif interactions from convolutional-attention networks for genomics](https://openreview.net/forum?id=ITOQhccyRsk)<br>
+*Rohan Singh Ghotra, Nicholas Keone Lee, Peter K Koo*
