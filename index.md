@@ -4,9 +4,6 @@ title: "3rd AI for Science"
 permalink: /
 
 
-past event:
-  - [1st AI for Science](http://www.ai4science.net/neurips21/)
-  - [2nd AI for Science](http://ai4science.net/icml22/)
 
 speakers:
 
@@ -89,7 +86,7 @@ ProfessorOrganizers:
 
 # About
 
-For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. Along with the identified gaps from the [1st AI4Science workshop](http://www.ai4science.net/neurips21/) held with NeurIPS last year, we are particularly interested in the following topics:
+For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. Along with the identified gaps from the [1st AI4Science workshop](http://www.ai4science.net/neurips21/) held with NeurIPS last year and [2nd AI4Science workshop](http://ai4science.net/icml22/), we are particularly interested in the following topics:
 
 - ** Boosting Scientific Simulation/Calculation with AI & ML**
 
@@ -114,11 +111,11 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 # Important Dates (Anywhere on Earth)
 
-- <del>Submission Deadline: Sep 18, 2022</del>
-- <del>Abstract Deadline: Sep 18, 2022</del>
-- <del>Submission Deadline: Sep 25, 2022</del>
-- <del>Author Notification: Oct 22, 2022</del>
-- <del>Travel Award Application: Nov 1st -- Nov 21st, 2022</del>
+- Submission Deadline: Sep 18, 2022
+- Abstract Deadline: Sep 18, 2022
+- Submission Deadline: Sep 25, 2022
+- Author Notification: Oct 22, 2022
+- Travel Award Application: Nov 1st -- Nov 21st, 2022
 - Conference Date: Nov 26 -- Dec 4, 2022
 - Workshop Date: 08:00 AM -- 06:00 PM (EST), Dec 3, 2022
 
