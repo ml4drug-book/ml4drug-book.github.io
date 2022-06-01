@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "AI for Science: Mind the Gaps"
+title: "AI for Science"
 permalink: /call
 ---
 
 # Call for Papers
-The 2021 NeurIPS AI for Science workshop calls for high-quality and cutting-edge paper submissions in the following two tracks:
+The 2022 NeurIPS AI for Science workshop calls for high-quality and cutting-edge paper submissions in the following two tracks:
 
 ## (A) Original Research Track
 
@@ -37,7 +37,7 @@ Example topics include (but not limited to):
 
 # Submission Instructions
 
-<del>Submisssion is due on **Sep 18th AoE**</del> Abstract is due on **Sep 18th AoE**, and submisssion is due on **Sep 25th AoE**. All submissions are managed through [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/AI4Science).
+<del>Submisssion is due on **Sep 18th AoE**</del> Abstract is due on **Sep 18th AoE**, and submisssion is due on **Sep 25th AoE**. All submissions are managed through [OpenReview](https://openreview.net/).
 
 The review process is double-blind so the submission should be anonymized. We welcome submissions that are (1) originally unpublished, (2) recently published, or (3) work-in-progress.
 Please use [AI for Science template Latex files](https://bit.ly/3rOZaZl). Note that for attention track submissions, authors are required to set ‘\usepackage[attention]{neurips_2021}’ to indicate. 
