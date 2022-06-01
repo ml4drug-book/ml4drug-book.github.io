@@ -47,7 +47,7 @@ Example topics include (but not limited to):
 
 # Submission Instructions
 
-<del>Submisssion is due on **Sep 18th AoE**</del> Abstract is due on **Sep 18th AoE**, and submisssion is due on **Sep 25th AoE**. All submissions are managed through [OpenReview](https://openreview.net/).
+Submisssion is due on **Sep 18th AoE**. Abstract is due on **Sep 18th AoE**, and submisssion is due on **Sep 25th AoE**. All submissions are managed through [OpenReview](https://openreview.net/).
 
 The review process is double-blind so the submission should be anonymized. We welcome submissions that are (1) originally unpublished, (2) recently published, or (3) work-in-progress.
 Please use [AI for Science template Latex files](https://bit.ly/3rOZaZl). Note that for attention track submissions, authors are required to set ‘\usepackage[attention]{neurips_2021}’ to indicate. 
