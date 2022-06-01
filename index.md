@@ -109,7 +109,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 {% include team.html id="speakers" %}
 
 
-# Important Dates (Anywhere on Earth)
+# Tentative Important Dates (Anywhere on Earth)
 
 - Submission Deadline: Sep 18, 2022
 - Abstract Deadline: Sep 18, 2022
