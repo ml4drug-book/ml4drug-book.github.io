@@ -86,15 +86,17 @@ ProfessorOrganizers:
 
 # About
 
-For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. Along with the identified gaps from the [1st AI4Science workshop](http://www.ai4science.net/neurips21/) held with NeurIPS last year and [2nd AI4Science workshop](http://ai4science.net/icml22/), we are particularly interested in the following topics:
+For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. Along with the identified gaps from the [1st AI4Science workshop](http://www.ai4science.net/neurips21/) held with NeurIPS last year and [2nd AI4Science workshop](http://ai4science.net/icml22/) with ICML this year, we are particularly interested in the following topics:
 
-- ** Boosting Scientific Simulation/Calculation with AI & ML**
+- ** Solving grand challenges in structural biology**
 
-- ** Responsible use and development of AI for science**
+- ** Scaling dynamical system modeling to millions of particles**
 
-- ** Learning Scientific Meaningful Representations**
+- ** Visualizing the unimaginable black hole**
 
-- ** Theory and Foundations**
+- ** Incorporating physical insights to AI methods**
+
+- ** Accelerating drug discovery pipeline**
 
 ## Attendance
 

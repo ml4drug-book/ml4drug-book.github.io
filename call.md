@@ -35,6 +35,16 @@ Example topics include (but not limited to):
 - Responsible use and development of AI for science
 
 
+## (C) Highlight Track
+
+This track calls comprehensive survey/benchmark on a specific topic under AI4Science, e.g., ML for Molecules, comparing with the original track, this track is more focused on the are more interested in summarising the published works. 
+
+Example topics include (but not limited to):
+- ML for Molecule design
+- ML for symbolic regression
+- ML for combinatorial optimization
+- ML for simulation
+
 # Submission Instructions
 
 <del>Submisssion is due on **Sep 18th AoE**</del> Abstract is due on **Sep 18th AoE**, and submisssion is due on **Sep 25th AoE**. All submissions are managed through [OpenReview](https://openreview.net/).
