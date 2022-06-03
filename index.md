@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "3rd AI for Science"
+title: "AI for Science: Progress and Promises"
 permalink: /
 
 
