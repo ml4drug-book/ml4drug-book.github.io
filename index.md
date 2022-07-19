@@ -78,7 +78,7 @@ StudentOrganizers:
   - name: Hanchen Wang 
     url: https://hansen7.github.io/
     aff: Cambridge/Caltech
-    interest: BioMedicine
+    interest: BioMedicine (emphasizing on Genomes)
     image: assets/images/hanchen.png 
 
 
