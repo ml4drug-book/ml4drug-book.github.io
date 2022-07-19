@@ -50,38 +50,81 @@ speakers:
     image: assets/images/maria.png 
 
 StudentOrganizers:
-  - name: Daisy Yi Ding (Stanford)
+  - name: Daisy Yi Ding
     url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en
+    aff: Stanford 
+    interest: 
+    image: assets/images/daisy.png 
 
-  - name: Yuanqi Du (DP Technology)
+  - name: Yuanqi Du
     url: https://yuanqidu.github.io/
+    aff: Cornell 
+    interest: 
+    image: assets/images/yuanqi.png 
 
-  - name: Tianfan Fu (Gatech)
+
+
+  - name: Tianfan Fu 
     url: https://futianfan.github.io/
+    aff: Gatech
+    interest: AI for drug design and development 
+    image: assets/images/tianfan.png 
 
-  - name: Hanchen Wang (Cambridge)
+
+  - name: Hanchen Wang 
     url: https://hansen7.github.io/
+    aff: Cambridge
+    interest: 
+    image: assets/images/hanchen.png 
 
 
 ProfessorOrganizers:
 
-  - name: Anima Anandkumar (Caltech)
+  - name: Anima Anandkumar 
     url: http://tensorlab.cms.caltech.edu/users/anima/
+    aff: Caltech
+    interest: 
+    image: assets/images/anima.png 
 
-  - name: Yoshua Bengio (MILA)
+
+
+
+  - name: Yoshua Bengio 
     url: https://yoshuabengio.org
+    aff: MILA
+    interest: 
+    image: assets/images/yoshua.png 
 
-  - name: Carla P. Gomes (Cornell)
+
+
+  - name: Carla P. Gomes
     url: https://www.cs.cornell.edu/gomes/
+    aff: Cornell
+    interest: 
+    image: assets/images/carla.png 
 
-  - name: Aviv Regev (MIT)
+
+  - name: Aviv Regev
     url: https://biology.mit.edu/profile/aviv-regev/
+    aff: MIT
+    interest: 
+    image: assets/images/aviv.png 
 
-  - name: Max Welling (UvA)
+
+  - name: Max Welling 
     url: https://staff.fnwi.uva.nl/m.welling
+    aff: UvA
+    interest: 
+    image: assets/images/max.jpeg 
 
-  - name: Marinka Zitnik (Harvard)
+  - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
+    aff: Harvard
+    interest: 
+    image: assets/images/marinka.png 
+
+
+
 ---
 
 # About
