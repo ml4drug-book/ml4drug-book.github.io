@@ -63,7 +63,7 @@ StudentOrganizers:
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
     aff: Cornell 
-    interest: 
+    interest: AI X Science
     image: assets/images/yuanqi.png 
 
 
