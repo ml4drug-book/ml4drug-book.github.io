@@ -49,11 +49,15 @@ speakers:
     interest: AI, Quantum Computing
     image: assets/images/maria.png 
 
+
+
+
 StudentOrganizers:
+
   - name: Daisy Yi Ding
-    url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
     aff: Stanford 
-    interest: 
+    interest: multiomics data fusion
     image: assets/images/daisy.png 
 
   - name: Yuanqi Du
@@ -73,8 +77,8 @@ StudentOrganizers:
 
   - name: Hanchen Wang 
     url: https://hansen7.github.io/
-    aff: Cambridge
-    interest: 
+    aff: Cambridge/Caltech
+    interest: BioMedicine
     image: assets/images/hanchen.png 
 
 
@@ -168,8 +172,16 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 Organizers are in the alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
+## Student Organizers
 
-<ul>
+{% include team.html id="StudentOrganizers" %}
+
+## Professor Organizers 
+
+{% include team.html id="ProfessorOrganizers" %}
+
+
+<!-- <ul>
 {% for p in page.StudentOrganizers %}
 <li>
 <a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
@@ -185,5 +197,5 @@ Organizers are in the alphabetical order. For any question, please contact [ai4s
 <a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
 </li>
 {% endfor %}
-</ul>
+</ul> -->
 
