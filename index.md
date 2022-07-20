@@ -119,7 +119,7 @@ ProfessorOrganizers:
     url: https://staff.fnwi.uva.nl/m.welling
     aff: UvA
     interest: 
-    image: assets/images/max.jpeg 
+    image: assets/images/max.png 
 
   - name: Marinka Zitnik
     url: https://zitniklab.hms.harvard.edu
