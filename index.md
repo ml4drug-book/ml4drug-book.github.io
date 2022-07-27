@@ -70,7 +70,7 @@ StudentOrganizers:
 
   - name: Chenru Duan
     url: https://www.crduan.com/
-    aff: MIT/MSR
+    aff: MIT
     interest: AI for Chemistry
     image: assets/images/chenru.png 
 
