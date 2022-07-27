@@ -181,7 +181,7 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 Organizers are in the alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
 
-## Student Organizers
+## Student Organizers (alphabetical order)
 
 {% include team.html id="StudentOrganizers" %}
 
