@@ -57,7 +57,7 @@ StudentOrganizers:
   - name: Daisy Yi Ding
     url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
     aff: Stanford 
-    interest: multiomics data fusion
+    interest: AI for Multiomics
     image: assets/images/daisy.png 
 
   - name: Yuanqi Du
