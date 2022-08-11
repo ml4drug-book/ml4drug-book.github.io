@@ -63,7 +63,7 @@ StudentOrganizers:
   - name: Yuanqi Du
     url: https://yuanqidu.github.io/
     aff: Cornell 
-    interest: AI X Science
+    interest: AI for Science
     image: assets/images/yuanqi.png 
 
 
@@ -87,7 +87,7 @@ StudentOrganizers:
   - name: Hanchen Wang 
     url: https://hansen7.github.io/
     aff: Cambridge/Caltech
-    interest: BioMedicine (emphasizing on Genomes)
+    interest: AI for BioMedicine (emphasizing on Genomes)
     image: assets/images/hanchen.png 
 
 
