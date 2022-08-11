@@ -171,13 +171,12 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 
 # Tentative Important Dates (Anywhere on Earth)
 
-- Submission Deadline: Sep 18, 2022
 - Abstract Deadline: Sep 18, 2022
 - Submission Deadline: Sep 25, 2022
 - Author Notification: Oct 22, 2022
 - Travel Award Application: Nov 1st -- Nov 21st, 2022
 - Conference Date: Nov 26 -- Dec 4, 2022
-- Workshop Date: 08:00 AM -- 06:00 PM (EST), Dec 3, 2022
+- Workshop Date: 08:00 AM -- 06:00 PM, Dec 2, 2022
 
 
 ## Submissions 

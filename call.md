@@ -9,7 +9,7 @@ The 2022 NeurIPS AI for Science workshop calls for high-quality and cutting-edge
 
 ## (A) Original Research Track
 
-This track calls for 4-8 page paper (unlimited references+appendix) of high-quality contributions from AI applications to all fields of scientific discovery, ranging from physics, biology, chemistry, earth science, environmental science, mechanical science, aerospace science, management science, agricultural science, material science, nuclear science etc. Appendix is optional, but reviewers are not required to read. 
+This track calls for 4-8 page paper (with unlimited references and appendices) of high-quality contributions from AI applications to all fields of scientific discovery, ranging from physics, biology, chemistry, earth science, environmental science, mechanical science, aerospace science, management science, agricultural science, material science, nuclear science etc. Appendix is optional, but reviewers are not required to read. 
 
 Example topics include (but not limited to):
 - Learning physical dynamics from data
@@ -25,7 +25,7 @@ Example topics include (but not limited to):
 
 ## (B) Attention Track
 
-This track solicits 4-8 page paper (unlimited references+appendix) that highlights a perspective of a subject in the field of AI for Science. We especially welcome contributions that discuss the gaps between AI and Science.
+This track solicits 4-8 page paper (with unlimited references and appendices) that highlights a perspective of a subject in the field of AI for Science. We especially welcome contributions that discuss the gaps between AI and Science.
 
 Example topics include (but not limited to):
 - Unrealistic ML methodological assumptions
@@ -37,7 +37,7 @@ Example topics include (but not limited to):
 
 ## (C) Highlight Track
 
-This track solicits 4-8 page paper (unlimited references+appendix) that is comprehensive survey/benchmark on a specific topic under AI4Science, e.g., ML for Molecules, comparing with the original track, this track is more focused on the are more interested in summarising the published works. 
+This track solicits 4-8 page paper (with unlimited references and appendices) that is comprehensive survey/benchmark on a specific topic under AI4Science, e.g., ML for Molecules, comparing with the original track, this track is more focused on the are more interested in summarising the published works. 
 
 Example topics include (but not limited to):
 - ML for Molecule design
