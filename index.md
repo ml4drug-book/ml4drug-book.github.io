@@ -74,7 +74,8 @@ StudentOrganizers:
     interest: AI for Chemistry
     image: assets/images/chenru.png 
 
-
+  
+  
 
   - name: Tianfan Fu 
     url: https://futianfan.github.io/
