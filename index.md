@@ -193,7 +193,7 @@ Organizers are in the alphabetical order. For any question, please contact [ai4s
 
 {% include team.html id="StudentOrganizers" %}
 
-## Professor Organizers 
+## Senior Organizers 
 
 {% include team.html id="ProfessorOrganizers" %}
 
