@@ -67,11 +67,6 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 - Workshop Date: 08:00 AM -- 06:00 PM, Dec 2, 2022
 
 
-## Submissions 
-
-Please submit your paper in [Openreview](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/AI4Science). 
-
-
 # Organizers and Contact
 
 Organizers are in the alphabetical order. For any question, please contact [ai4sciencecommunity@gmail.com](mailto:ai4sciencecommunity@gmail.com).
