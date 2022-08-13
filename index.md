@@ -9,19 +9,19 @@ Authors:
 
   - name: Tianfan Fu 
     url: futianfan.github.io
-    aff: Georgia Institute of Technology
+    aff: senior PhD student at Georgia Institute of Technology
     image: assets/images/tianfan.png 
 
 
   - name: Cao (Danica) Xiao 
     url: https://sites.google.com/view/danicaxiao/home
-    aff: Amplitude
+    aff: Senior Director of Data Science and Machine Learning at Amplitude
     image: assets/images/danica.png 
 
 
   - name: Jimeng Sun
     url: https://sunlab.org/
-    aff: UIUC
+    aff: Health Innovation Professor at Computer Science Department and Carle's Illinois College of Medicine
     image: assets/images/jimeng.png 
 
 
@@ -127,7 +127,7 @@ Please follow us on Twitter: [Jimeng](https://twitter.com/jimeng) for the latest
 
 ## Suggestion
 
-Any feedbacks, suggestions and comments for improve our paper are warmly welcome! Please feel free to reach out to us! 
+Any feedbacks, suggestions and comments for improve our paper are warmly welcome! Please feel free to reach out to us at futianfan@gmail.com, or danicaxiao@gmail.com or jimeng.sun@gmail.com, or fill the [google form](https://forms.gle/tDGkWFrASThTSa86A). 
 
 
 
