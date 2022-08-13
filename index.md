@@ -1,141 +1,28 @@
 ---
 layout: default
-title: "AI for Science: Progress and Promises"
+title: "Machine Learning for Drug Discovery and Development"
 permalink: /
 
 
 
-speakers:
-
-  - name: David Baker 
-    url: https://www.bakerlab.org/
-    topic: 
-    aff: UW
-    interest: AI, Biology
-    image: assets/images/david_baker.png 
-
-  - name: Weinan E
-    url: http://web.math.princeton.edu/~weinan/
-    topic: 
-    aff: Princeton and PKU
-    interest: AI, Applied Mathematics
-    image: assets/images/weinan.png 
-
-  - name: Tess Smidt 
-    url: https://blondegeek.github.io/
-    topic: 
-    aff: MIT
-    interest: AI, Physical Sciences
-    image: assets/images/tess.png 
-
-  - name: Shuiwang Ji 
-    url: http://people.tamu.edu/~sji/
-    topic: 
-    aff: TAMU
-    interest: AI, Chemistry
-    image: assets/images/shuiwang.png 
-
-  - name: Katie Bouman 
-    url: http://users.cms.caltech.edu/~klbouman/
-    topic: 
-    aff: Caltech
-    interest: AI, Astrophysics
-    image: assets/images/katie.png 
-
-  - name: Maria Schuld
-    url: https://quantum.ukzn.ac.za/ms-m-schuld/
-    topic: 
-    aff: Xanadu
-    interest: AI, Quantum Computing
-    image: assets/images/maria.png 
-
-
-
-
-StudentOrganizers:
-
-  - name: Daisy Yi Ding
-    url: https://scholar.google.com/citations?user=O2HUmYsAAAAJ&hl=en/
-    aff: Stanford 
-    interest: AI for Multiomics
-    image: assets/images/daisy.png 
-
-  - name: Yuanqi Du
-    url: https://yuanqidu.github.io/
-    aff: Cornell 
-    interest: AI for Science
-    image: assets/images/yuanqi.png 
-
-
-
-  - name: Chenru Duan
-    url: https://www.crduan.com/
-    aff: MIT
-    interest: AI for Chemistry
-    image: assets/images/chenru.png 
-
-  
-  
+Authors:
 
   - name: Tianfan Fu 
-    url: https://futianfan.github.io/
-    aff: Gatech
-    interest: AI for drug design and development 
+    url: https://www.bakerlab.org/
+    aff: Georgia Institute of Technology
     image: assets/images/tianfan.png 
 
+  - name: Cao (Danica) Xiao 
+    url: https://sites.google.com/view/danicaxiao/home
+    aff: Amplitude
+    image: assets/images/danica.png 
+
+  - name: Jimeng Sun
+    url: https://sunlab.org/
+    aff: UIUC
+    image: assets/images/jimeng.png 
 
 
-  - name: Hanchen Wang 
-    url: https://hansen7.github.io/
-    aff: Cambridge/Caltech
-    interest: AI for Genomics
-    image: assets/images/hanchen.png 
-
-
-ProfessorOrganizers:
-
-  - name: Anima Anandkumar 
-    url: http://tensorlab.cms.caltech.edu/users/anima/
-    aff: Caltech
-    interest: 
-    image: assets/images/anima.png 
-
-
-
-
-  - name: Yoshua Bengio 
-    url: https://yoshuabengio.org
-    aff: MILA
-    interest: 
-    image: assets/images/yoshua.png 
-
-
-
-  - name: Carla P. Gomes
-    url: https://www.cs.cornell.edu/gomes/
-    aff: Cornell
-    interest: 
-    image: assets/images/carla.png 
-
-
-  - name: Aviv Regev
-    url: https://biology.mit.edu/profile/aviv-regev/
-    aff: MIT
-    interest: 
-    image: assets/images/aviv.png 
-
-
-  - name: Max Welling 
-    url: https://staff.fnwi.uva.nl/m.welling
-    aff: UvA
-    interest: 
-    image: assets/images/max.png 
-
-  - name: Marinka Zitnik
-    url: https://zitniklab.hms.harvard.edu
-    aff: Harvard
-    interest: 
-    image: assets/images/marinka.png 
 
 
 
