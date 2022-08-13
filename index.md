@@ -11,18 +11,19 @@ Authors:
     url: futianfan.github.io
     aff: PhD@Georgia Tech
     image: assets/images/tianfan.png 
+    email: futianfan@gmail.com
 
   - name: Cao (Danica) Xiao 
     url: https://sites.google.com/view/danicaxiao/home
     aff: Senior Director of Data Science & Machine Learning@Amplitude
     image: assets/images/danica.png 
-
+    email: danicaxiao@gmail.com
 
   - name: Jimeng Sun
     url: https://sunlab.org/
     aff: Professor@CS of UIUC
     image: assets/images/jimeng.png 
-
+    email: jimeng.sun@gmail.com
 
 
 ---
@@ -126,7 +127,7 @@ Please follow us on Twitter: [Jimeng](https://twitter.com/jimeng) for the latest
 
 ## Suggestion
 
-Any feedbacks, suggestions and comments for improve our paper are warmly welcome! Please feel free to reach out to us at futianfan@gmail.com, or danicaxiao@gmail.com or jimeng.sun@gmail.com, or fill the [google form](https://forms.gle/tDGkWFrASThTSa86A). 
+Any feedbacks, suggestions and comments for improve our paper are warmly welcome! Please feel free to reach out to us via futianfan@gmail.com, or danicaxiao@gmail.com or jimeng.sun@gmail.com, or fill the [google form](https://forms.gle/tDGkWFrASThTSa86A). 
 
 
 
