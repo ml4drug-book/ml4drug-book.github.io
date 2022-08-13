@@ -21,7 +21,7 @@ Authors:
 
   - name: Jimeng Sun
     url: https://sunlab.org/
-    aff: Professor@CS of UIUC
+    aff: CS Professor@UIUC
     image: assets/images/jimeng.png 
     email: jimeng.sun@gmail.com
 
@@ -111,13 +111,13 @@ We plan to write the book from three different aspects: data, method, and applic
 
 ## Follow Us
 
-Please follow us on Twitter: [Jimeng](https://twitter.com/jimeng) for the latest news. 
+Please follow us on Twitter: [Tianfan](https://twitter.com/tianfanfu), [Danica](https://twitter.com/caoxiao_danica), [Jimeng](https://twitter.com/jimeng) for the latest news. 
 <!-- , or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-ztw3600x-TR5EdX~NnnlW7g3lkM8HnQ) for active discussions. -->
 
 
 # Tentative Release Dates 
 
-- Jan 25, 2023
+- Early 2023
 
 
 ## Authors
