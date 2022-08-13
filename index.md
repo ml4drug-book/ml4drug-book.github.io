@@ -26,8 +26,6 @@ Authors:
 
 
 
-
-
 ---
 
 # About
@@ -37,40 +35,115 @@ The book is intended for a graduate course on machine learning/artificial intell
 - Data scientists from the pharmaceutical and biotech industry.
 
 
-For centuries, the method of discovery—the fundamental practice of science that scientists use to explain the natural world systematically and logically—has remained largely the same. Artificial intelligence (AI) and machine learning (ML) hold tremendous promise in having an impact on the way scientific discovery is performed today at the fundamental level. However, to realize this promise, we need to identify priorities and outstanding open questions for the cutting edge of AI going forward. Along with the identified gaps from the [1st AI4Science workshop](http://www.ai4science.net/neurips21/) held with NeurIPS 2021 and [2nd AI4Science workshop](http://ai4science.net/icml22/) with ICML 2022, we are particularly interested in the following topics:
+Our book covers a comprehensive overview of most of the essential topics in AI for drug discovery and development and starts from basic concepts in machine learning and pharmaceutical science. Thus it is more friendly to readers who do not have sufficient background knowledge. 
 
-- **Solving grand challenges in structural biology**
-  - aaa
-  - bbb
-  - ccc
+We plan to write the book from three different aspects: data, method, and application.
 
-- **Scaling dynamical system modeling to millions of particles**
+- **Data** We will cover all the different data types that are related to drug discovery and development, including drug target, genomics data, small molecules (SMILES, molecular graphs, fingerprint), biologics (amino acid sequence), clinical trials (drug, disease code, text-based feature), patient data (electronic health records, medical claims, wearables) and scientific literature. 
 
-- **Visualizing the unimaginable black hole**
+- **Machine Learning Methods (special focus on deep learning methods)** We will present different machine learning methods with a focus on deep learning. In particular, we will cover basic machine learning methods (supervised, unsupervised learning, model optimization, and training), representation learning (various deep learning models - MLP, RNN, CNN, Attention model, transformer, graph neural network, autoencoder), deep generative models (variation autoencoder, generative adversarial networks), and Combinatorial methods (Reinforcement learning, Genetic algorithm, Bayesian optimization)
 
-- **Incorporating physical insights to AI methods**
+- **Drug Discovery Applications** We will introduce the different drug discovery and development tasks and how deep learning models can help. Specifically, we will cover DNA/RNA-protein binding, Target identification, Small molecule design ( De novo small-molecule design, lead optimization, property prediction: ADMET, QSAR, adverse drug effect (drug side effect) prediction, virtual screening, retrosynthesis, drug combination prediction (synergy), drug-drug interaction, drug-target interaction prediction),  large molecule design (protein sequence learning, biologics property prediction, epitope/antetope prediction prediction,  protein amino acid sequence prediction, protein 3D structure prediction, antibody design).
 
-- **Accelerating drug discovery pipeline**
+- **Drug Development Applications** We will present the different drug development tasks such as clinical trial design (phase I, II, III trials), clinical trial protocol design, trial site selection, trial recruitment (patient-trial matching), adverse event detection, survival analysis, regulatory approval, post-market analysis (drug recommendation, commercial success prediction). 
 
+
+
+
+
+# Table of Content (tentative)
+
+- **Data**
+  - Target protein
+  - Small-molecule drug
+  - Biologics 
+  - Clinical trial data 
+  - Literature data 
+
+
+- **Machine learning Basics**
+  - Supervised Learning 
+  - Unsupervised Learning  
+  - Numerical optimization
+  - Data split
+  - Hyperparameter
+  - Ensemble methods 
+
+- **Deep learning methods**
+  - Multiple Layer Perceptron (MLP)
+  - Convolutional neural network (CNN)
+  - Recurrent neural network (RNN)
+  - Graph neural network (GNN)
+  - Embedding
+  - Attention mechanism
+  - Transformer
+  - Memory network
+
+- **Advanced Machine learning methods**
+  - Variational Auto-Encoder (VAE)
+  - Generative Adversarial Network (GAN)
+  - Normalizing Flow model
+  - Reinforcement Learning (RL)
+  - Genetic algorithm (GA)
+  - Bayesian optimization (BO)
+  - Self-supervised learning and pretraining
+
+- **Small-molecule drug discovery**
+  - virtual screening and high-throughput screening 
+  - drug property prediction: ADMET 
+  - de novo drug design 
+  - lead optimization 
+
+- **Large-molecule drug discovery**
+  - protein property prediction 
+  - protein design
+
+
+- **Drug Development**
+  - Clinical trial basics 
+  - clinical trial outcome prediction 
+  - Drug repurposing 
+  - Drug combination 
+  - Patient recruitment and Patient-trial matching
+  - Survival analysis 
+  - Clinical Trial site Selection
 
 
 ## Follow Us
 
-Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn](https://www.linkedin.com/company/ai-for-science/) for the latest news, or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-ztw3600x-TR5EdX~NnnlW7g3lkM8HnQ) for active discussions.
-
-# Invited Talks (In alphabetical order)
-
-{% include team.html id="speakers" %}
+Please follow us on Twitter: [Jimeng](https://twitter.com/jimeng) for the latest news. 
+<!-- , or join us on the [Slack](https://join.slack.com/t/ai4sciencecommunity/shared_invite/zt-ztw3600x-TR5EdX~NnnlW7g3lkM8HnQ) for active discussions. -->
 
 
-# Tentative Important Dates (Anywhere on Earth)
+# Tentative Release Dates 
 
-- Abstract Deadline: Sep 18, 2022
-- Submission Deadline: Sep 25, 2022
+- Jan 25, 2023
 
 
 ## Authors
 
 {% include team.html id="Authors" %}
+
+
+## Suggestion
+
+Any feedbacks, suggestions and comments for improve our paper are warmly welcome! Please feel free to reach out to us! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
