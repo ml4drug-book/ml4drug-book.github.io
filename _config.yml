@@ -1,8 +1,8 @@
-title: "AI for Science"
-description: A NeurIPS 2022 Workshop
+title: "ML for drug"
+description: A Textbook
 google_analytics:
 theme: jekyll-theme-cayman
 
 
-url: "https://AI4ScienceCommunity.github.io"
+url: "https://ml4drug-book.github.io"
 baseurl: "/"
