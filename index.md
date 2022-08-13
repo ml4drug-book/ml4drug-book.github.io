@@ -9,9 +9,8 @@ Authors:
 
   - name: Tianfan Fu 
     url: futianfan.github.io
-    aff: senior PhD student@Georgia Tech
+    aff: PhD@Georgia Tech
     image: assets/images/tianfan.png 
-
 
   - name: Cao (Danica) Xiao 
     url: https://sites.google.com/view/danicaxiao/home
@@ -21,7 +20,7 @@ Authors:
 
   - name: Jimeng Sun
     url: https://sunlab.org/
-    aff: Professor@UIUC.CS
+    aff: Professor@CS of UIUC
     image: assets/images/jimeng.png 
 
 
