@@ -9,19 +9,19 @@ Authors:
 
   - name: Tianfan Fu 
     url: futianfan.github.io
-    aff: senior PhD student at Georgia Institute of Technology
+    aff: senior PhD student@Georgia Tech
     image: assets/images/tianfan.png 
 
 
   - name: Cao (Danica) Xiao 
     url: https://sites.google.com/view/danicaxiao/home
-    aff: Senior Director of Data Science and Machine Learning at Amplitude
+    aff: Senior Director of Data Science & Machine Learning@Amplitude
     image: assets/images/danica.png 
 
 
   - name: Jimeng Sun
     url: https://sunlab.org/
-    aff: Health Innovation Professor at Computer Science Department and Carle's Illinois College of Medicine
+    aff: Professor@UIUC.CS
     image: assets/images/jimeng.png 
 
 
