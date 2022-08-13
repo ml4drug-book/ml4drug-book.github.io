@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Machine Learning for Drug Discovery and Development"
+title: "Textbook: Machine Learning for Drug Discovery and Development"
 permalink: /
 
 
@@ -12,10 +12,12 @@ Authors:
     aff: Georgia Institute of Technology
     image: assets/images/tianfan.png 
 
+
   - name: Cao (Danica) Xiao 
     url: https://sites.google.com/view/danicaxiao/home
     aff: Amplitude
     image: assets/images/danica.png 
+
 
   - name: Jimeng Sun
     url: https://sunlab.org/
@@ -59,30 +61,8 @@ Please follow us on [Twitter](https://twitter.com/AI_for_Science) and [LinkedIn]
 - Submission Deadline: Sep 25, 2022
 
 
-## Authors (alphabetical order)
+## Authors
 
 {% include team.html id="Authors" %}
 
-## Senior Organizers 
-
-{% include team.html id="ProfessorOrganizers" %}
-
-
-<!-- <ul>
-{% for p in page.StudentOrganizers %}
-<li>
-<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
-</li>
-{% endfor %}
-</ul>
-
-
-
-<ul>
-{% for p in page.ProfessorOrganizers %}
-<li>
-<a{% if p.url %} href="{{ p.url }}"{% endif %}>{{ p.name }}</a>
-</li>
-{% endfor %}
-</ul> -->
 
