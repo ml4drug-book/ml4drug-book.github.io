@@ -8,7 +8,7 @@ permalink: /
 Authors:
 
   - name: Tianfan Fu 
-    url: https://www.bakerlab.org/
+    url: futianfan.github.io
     aff: Georgia Institute of Technology
     image: assets/images/tianfan.png 
 
