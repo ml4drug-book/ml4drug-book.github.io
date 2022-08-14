@@ -127,7 +127,7 @@ Please follow us on Twitter: [Tianfan](https://twitter.com/tianfanfu), [Danica](
 
 ## Suggestion
 
-Any feedbacks, suggestions and comments for improve our paper are warmly welcome! Please feel free to reach out to us via futianfan@gmail.com, or danicaxiao@gmail.com or jimeng.sun@gmail.com, or fill the [google form](https://forms.gle/tDGkWFrASThTSa86A). 
+Any feedbacks, suggestions and comments for improve our paper are warmly welcome! Please feel free to reach out to us via the [google form](https://forms.gle/tDGkWFrASThTSa86A). 
 
 
 
