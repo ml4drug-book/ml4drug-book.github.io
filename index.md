@@ -5,6 +5,9 @@ permalink: /
 
 
 
+
+
+
 Authors:
 
   - name: Tianfan Fu 
@@ -30,7 +33,7 @@ Authors:
 
 # About
 
-The book is intended for a graduate course on machine learning/artificial intelligence for drug discovery and development. It can also serve the graduate course “Machine Learning/artificial intelligence and its application.” The target audiences are two groups: 
+The book is intended for a graduate course on machine learning/artificial intelligence for drug discovery and development. It can also serve the graduate course “Machine Learning/Artificial Intelligence and its Application.” The target audiences are two groups: 
 - Graduate (e.g., MS and PhD students) or advanced undergraduate students majoring in computer science, engineering, medicine, chemistry, biology, medical informatics, or biostatistics.  
 - Data scientists from the pharmaceutical and biotech industry.
 
