@@ -120,7 +120,7 @@ Please follow us on Twitter: [Tianfan](https://twitter.com/tianfanfu), [Danica](
 
 # Tentative Release Dates 
 
-- Early 2023
+- 2023
 
 
 ## Authors
