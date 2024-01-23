@@ -18,13 +18,13 @@ Authors:
 
   - name: Cao (Danica) Xiao 
     url: https://sites.google.com/view/danicaxiao/home
-    aff: Senior Director of Data Science & Machine Learning@Amplitude
+    aff: VP of AI at GE Healthcare
     image: assets/images/danica.png 
     email: danicaxiao@gmail.com
 
   - name: Jimeng Sun
     url: https://sunlab.org/
-    aff: CS Professor@UIUC
+    aff: Professor at University of Illinois Urbana-Champaign
     image: assets/images/jimeng.png 
     email: jimeng.sun@gmail.com
 
@@ -47,8 +47,6 @@ We plan to write the book from three different aspects: data, method, and applic
 - **Machine Learning Methods (special focus on deep learning methods)** We will present different machine learning methods with a focus on deep learning. In particular, we will cover basic machine learning methods (supervised, unsupervised learning, model optimization, and training), representation learning (various deep learning models - MLP, RNN, CNN, Attention model, transformer, graph neural network, autoencoder), deep generative models (variation autoencoder, generative adversarial networks), and Combinatorial methods (Reinforcement learning, Genetic algorithm, Bayesian optimization)
 
 - **Drug Discovery Applications** We will introduce the different drug discovery and development tasks and how deep learning models can help. Specifically, we will cover DNA/RNA-protein binding, Target identification, Small molecule design ( De novo small-molecule design, lead optimization, property prediction: ADMET, QSAR, adverse drug effect (drug side effect) prediction, virtual screening, retrosynthesis, drug combination prediction (synergy), drug-drug interaction, drug-target interaction prediction),  large molecule design (protein sequence learning, biologics property prediction, epitope/antetope prediction prediction,  protein amino acid sequence prediction, protein 3D structure prediction, antibody design).
-
-- **Drug Development Applications** We will present the different drug development tasks such as clinical trial design (phase I, II, III trials), clinical trial protocol design, trial site selection, trial recruitment (patient-trial matching), adverse event detection, survival analysis, regulatory approval, post-market analysis (drug recommendation, commercial success prediction). 
 
 
 
