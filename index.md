@@ -12,7 +12,7 @@ Authors:
 
   - name: Tianfan Fu 
     url: futianfan.github.io
-    aff: PhD@Georgia Tech
+    aff: Assistant Professor at Rensselaer Polytechnic Institute (RPI) 
     image: assets/images/tianfan.png 
     email: futianfan@gmail.com
 
